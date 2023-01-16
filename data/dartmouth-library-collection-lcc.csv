@@ -1,426 +1,383 @@
-﻿Classification Code,Num of Titles (Active)
-AC,4472
-AE,275
-AG,228
-AI,69
-AM,876
-AN,296
-AP,1815
-AS,1607
-AY,1984
-AZ,613
-B,31025
-BC,1494
-BD,5852
-BF,19951
-BH,1750
-BJ,5950
-BL,15125
-BM,5171
-BP,5574
-BQ,3601
-BR,11822
-BS,16258
-BT,9360
-BV,8895
-BX,23454
-C,3
-CB,2793
-CC,2469
-CD,1128
-CE,183
-CJ,893
-CN,380
-CR,624
-CS,1245
-CT,3247
-D,19349
-DA,22137
-DAW,62
-DB,1357
-DC,6780
-DD,5833
-DE,736
-DF,4021
-DG,6188
-DH,375
-DJ,315
-DJK,437
-DK,8912
-DL,970
-DP,7098
-DQ,291
-DR,2699
-DS,46202
-DT,11828
-DU,2612
-DX,159
-E,49193
-F,48760
-G,21441
-GA,1183
-GB,3620
-GC,1706
-GE,2966
-GF,2079
-GN,11452
-GR,3172
-GT,3961
-GV,10762
-H,3368
-HA,3503
-HB,18415
-HC,31219
-HD,59528
-HE,6474
-HF,22678
-HG,18961
-HJ,5630
-HM,12716
-HN,9617
-HQ,26717
-HS,562
-HT,8917
-HV,25653
-HX,4572
-J,262
-JA,3979
-JC,11651
-JF,3687
-JJ,6
-JK,7976
-JL,3026
-JN,5825
-JQ,4330
-JS,1740
-JV,4156
-JX,4297
-JZ,5990
-K,12259
-KB,33
-KBM,42
-KBP,323
-KBR,59
-KBU,60
-KD,3588
-KDC,780
-KDE,6
-KDG,1
-KDK,108
-KDZ,94
-KE,934
-KEA,4
-KEB,14
-KEM,4
-KEN,15
-KEO,30
-KEP,1
-KEQ,24
-KES,1
-KEZ,1
-KF,35835
-KFA,27
-KFC,73
-KFD,18
-KFF,27
-KFG,17
-KFH,14
-KFI,40
-KFK,15
-KFL,16
-KFM,113
-KFN,295
-KFO,17
-KFP,12
-KFR,2
-KFS,9
-KFT,57
-KFU,3
-KFV,79
-KFW,24
-KFX,50
-KFZ,5
-KG,217
-KGB,3
-KGC,5
-KGD,7
-KGE,2
-KGF,159
-KGG,7
-KGH,3
-KGJ,5
-KGK,1
-KGL,3
-KGN,36
-KGP,2
-KGQ,19
-KGS,19
-KGT,4
-KGV,21
-KGX,1
-KH,29
-KHA,94
-KHC,14
-KHD,122
-KHF,53
-KHH,780
-KHK,6
-KHP,10
-KHQ,97
-KHU,11
-KHW,51
-KJ,90
-KJA,346
-KJC,607
-KJE,729
-KJG,2
-KJH,1
-KJJ,23
-KJK,13
-KJM,5
-KJN,2
-KJP,5
-KJR,5
-KJS,1
-KJT,4
-KJV,194
-KJW,11
-KK,2595
-KKA,40
-KKB,49
-KKC,10
-KKE,10
-KKF,16
-KKG,7
-KKH,97
-KKI,5
-KKJ,3
-KKK,1
-KKL,1
-KKM,44
-KKN,7
-KKP,26
-KKQ,9
-KKR,10
-KKS,1
-KKT,582
-KKV,15
-KKW,28
-KKX,32
-KKY,8
-KKZ,8
-KL,142
-KLA,95
-KLB,70
-KLH,1
-KLN,2
-KLP,1
-KLR,4
-KLW,1
-KM,25
-KMC,50
-KME,1
-KMH,21
-KMJ,13
-KMK,55
-KML,3
-KMM,7
-KMN,4
-KMP,2
-KMQ,4
-KMT,6
-KMU,1
-KMV,4
-KMX,3
-KNC,83
-KNE,1
-KNF,4
-KNG,2
-KNL,4
-KNM,6
-KNN,124
-KNP,9
-KNQ,300
-KNR,35
-KNS,140
-KNT,2
-KNU,4
-KNW,33
-KNX,90
-KP,2
-KPA,38
-KPC,1
-KPG,15
-KPH,2
-KPK,1
-KPL,25
-KPM,5
-KPP,4
-KPS,2
-KPT,12
-KPV,4
-KQ,5
-KQC,106
-KQE,3
-KQG,8
-KQK,2
-KQT,3
-KQV,1
-KQW,9
-KRG,1
-KRM,28
-KRN,2
-KRP,3
-KRU,2
-KRX,10
-KS,2
-KSK,23
-KSN,1
-KSP,2
-KSS,1
-KSU,2
-KSV,1
-KSW,4
-KSY,14
-KT,1
-KTA,29
-KTD,17
-KTG,2
-KTK,2
-KTL,69
-KTQ,10
-KTT,13
-KTV,3
-KTW,10
-KTZ,9
-KU,139
-KUC,4
-KUE,1
-KUH,2
-KUQ,20
-KVC,9
-KVL,0
-KVN,1
-KVU,1
-KWC,1
-KWH,4
-KWR,1
-KWX,11
-KZ,1847
-KZA,146
-KZD,20
-L,1203
-LA,3994
-LB,15059
-LC,8916
-LD,3838
-LE,214
-LF,757
-LG,157
-LH,200
-LJ,206
-LT,8
-M,74397
-ML,25958
-MT,2878
-N,41676
-NA,18877
-NB,6573
-NC,6361
-ND,26008
-NE,4170
-NK,9851
-NX,4493
-P,21315
-PA,16630
-PB,555
-PC,6911
-PD,547
-PE,5680
-PF,2054
-PG,23909
-PH,815
-PJ,7608
-PK,1628
-PL,31887
-PM,1888
-PN,60151
-PQ,122890
-PR,62334
-PS,67622
-PT,30999
-PZ,6232
-Q,12306
-QA,73649
-QB,8286
-QC,28869
-QD,15633
-QE,13691
-QH,16058
-QK,5303
-QL,10828
-QM,1406
-QP,11537
-QR,2878
-R,10502
-RA,13030
-RB,2076
-RC,26173
-RD,4530
-RE,958
-RF,632
-RG,2696
-RJ,4099
-RK,518
-RL,479
-RM,3019
-RS,1223
-RT,2215
-RV,10
-RX,46
-RZ,146
-S,4857
-SB,5016
-SD,1539
-SF,2120
-SH,1397
-SK,654
-T,6934
-TA,13804
-TC,1496
-TD,5783
-TE,454
-TF,428
-TG,296
-TH,1718
-TJ,5841
-TK,24774
-TL,3768
-TN,3197
-TP,6208
-TR,12682
-TS,3563
-TT,1265
-TX,3211
-U,4394
-UA,4828
-UB,1841
-UC,542
-UD,104
-UE,41
-UF,318
-UG,2306
-UH,321
-Unknown,1976577
-V,616
-VA,484
-VB,118
-VC,62
-VD,4
-VE,116
-VF,22
-VG,127
-VK,635
-VM,655
-Z,29289
-ZA,602
+﻿Permanent LC Classification Code,Library Name (Active), COUNT(Physical Item Id)
+AC,Baker-Berry Library,1340
+AE,Baker-Berry Library,184
+AG,Baker-Berry Library,173
+AI,Baker-Berry Library,6
+AM,Baker-Berry Library,327
+AP,Baker-Berry Library,6320
+AS,Baker-Berry Library,2452
+AY,Baker-Berry Library,47
+AZ,Baker-Berry Library,390
+B,Baker-Berry Library,23367
+BC,Baker-Berry Library,961
+BD,Baker-Berry Library,3329
+BF,Baker-Berry Library,15257
+BH,Baker-Berry Library,1154
+BJ,Baker-Berry Library,3584
+BL,Baker-Berry Library,11447
+BM,Baker-Berry Library,4924
+BP,Baker-Berry Library,3692
+BQ,Baker-Berry Library,2870
+BR,Baker-Berry Library,9953
+BS,Baker-Berry Library,10272
+BT,Baker-Berry Library,5111
+BV,Baker-Berry Library,3358
+BX,Baker-Berry Library,13044
+C,Baker-Berry Library,1
+CB,Baker-Berry Library,2772
+CC,Baker-Berry Library,1851
+CD,Baker-Berry Library,1228
+CE,Baker-Berry Library,119
+CJ,Baker-Berry Library,1007
+CN,Baker-Berry Library,541
+CR,Baker-Berry Library,419
+CS,Baker-Berry Library,1151
+CT,Baker-Berry Library,2894
+D,Baker-Berry Library,15807
+DA,Baker-Berry Library,11684
+DAW,Baker-Berry Library,33
+DB,Baker-Berry Library,1134
+DC,Baker-Berry Library,5848
+DD,Baker-Berry Library,4530
+DE,Baker-Berry Library,1003
+DF,Baker-Berry Library,4244
+DG,Baker-Berry Library,5740
+DH,Baker-Berry Library,327
+DJ,Baker-Berry Library,187
+DJK,Baker-Berry Library,352
+DK,Baker-Berry Library,7656
+DL,Baker-Berry Library,821
+DP,Baker-Berry Library,5784
+DQ,Baker-Berry Library,359
+DR,Baker-Berry Library,1943
+DS,Baker-Berry Library,43270
+DT,Baker-Berry Library,9498
+DU,Baker-Berry Library,1949
+DX,Baker-Berry Library,96
+E,Baker-Berry Library,34905
+F,Baker-Berry Library,39636
+G,Baker-Berry Library,21237
+GA,Baker-Berry Library,1159
+GB,Baker-Berry Library,2707
+GC,Baker-Berry Library,812
+GE,Baker-Berry Library,1191
+GF,Baker-Berry Library,1411
+GN,Baker-Berry Library,9895
+GR,Baker-Berry Library,2504
+GT,Baker-Berry Library,2864
+GV,Baker-Berry Library,6818
+H,Baker-Berry Library,3092
+HA,Baker-Berry Library,2565
+HB,Baker-Berry Library,10295
+HC,Baker-Berry Library,21306
+HD,Baker-Berry Library,35481
+HE,Baker-Berry Library,4150
+HF,Baker-Berry Library,8993
+HG,Baker-Berry Library,8445
+HJ,Baker-Berry Library,3482
+HM,Baker-Berry Library,7870
+HN,Baker-Berry Library,7786
+HQ,Baker-Berry Library,18176
+HS,Baker-Berry Library,361
+HT,Baker-Berry Library,6372
+HV,Baker-Berry Library,14124
+HX,Baker-Berry Library,3899
+J,Baker-Berry Library,836
+JA,Baker-Berry Library,2748
+JC,Baker-Berry Library,7623
+JF,Baker-Berry Library,1905
+JK,Baker-Berry Library,6090
+JL,Baker-Berry Library,2436
+JN,Baker-Berry Library,4516
+JQ,Baker-Berry Library,3264
+JS,Baker-Berry Library,1717
+JV,Baker-Berry Library,2500
+JX,Baker-Berry Library,6315
+JZ,Baker-Berry Library,3135
+K,Baker-Berry Library,5241
+KB,Baker-Berry Library,4
+KBM,Baker-Berry Library,21
+KBP,Baker-Berry Library,204
+KBR,Baker-Berry Library,36
+KBU,Baker-Berry Library,5
+KD,Baker-Berry Library,964
+KDC,Baker-Berry Library,22
+KDE,Baker-Berry Library,6
+KDK,Baker-Berry Library,29
+KDZ,Baker-Berry Library,80
+KE,Baker-Berry Library,972
+KEA,Baker-Berry Library,2
+KEB,Baker-Berry Library,12
+KEM,Baker-Berry Library,2
+KEN,Baker-Berry Library,6
+KEO,Baker-Berry Library,14
+KEP,Baker-Berry Library,1
+KEQ,Baker-Berry Library,11
+KES,Baker-Berry Library,1
+KF,Baker-Berry Library,9749
+KFA,Baker-Berry Library,13
+KFC,Baker-Berry Library,55
+KFD,Baker-Berry Library,11
+KFF,Baker-Berry Library,11
+KFG,Baker-Berry Library,2
+KFH,Baker-Berry Library,5
+KFI,Baker-Berry Library,19
+KFK,Baker-Berry Library,2
+KFL,Baker-Berry Library,5
+KFM,Baker-Berry Library,105
+KFN,Baker-Berry Library,423
+KFO,Baker-Berry Library,10
+KFP,Baker-Berry Library,5
+KFR,Baker-Berry Library,1
+KFS,Baker-Berry Library,5
+KFT,Baker-Berry Library,14
+KFV,Baker-Berry Library,209
+KFW,Baker-Berry Library,13
+KFX,Baker-Berry Library,40
+KFZ,Baker-Berry Library,3
+KG,Baker-Berry Library,94
+KGB,Baker-Berry Library,2
+KGC,Baker-Berry Library,2
+KGD,Baker-Berry Library,3
+KGE,Baker-Berry Library,1
+KGF,Baker-Berry Library,85
+KGG,Baker-Berry Library,4
+KGJ,Baker-Berry Library,2
+KGK,Baker-Berry Library,1
+KGN,Baker-Berry Library,12
+KGP,Baker-Berry Library,1
+KGQ,Baker-Berry Library,16
+KGS,Baker-Berry Library,14
+KGT,Baker-Berry Library,1
+KGV,Baker-Berry Library,25
+KGX,Baker-Berry Library,2
+KH,Baker-Berry Library,11
+KHA,Baker-Berry Library,72
+KHC,Baker-Berry Library,6
+KHD,Baker-Berry Library,95
+KHF,Baker-Berry Library,29
+KHH,Baker-Berry Library,52
+KHK,Baker-Berry Library,2
+KHP,Baker-Berry Library,7
+KHQ,Baker-Berry Library,42
+KHU,Baker-Berry Library,11
+KHW,Baker-Berry Library,38
+KJ,Baker-Berry Library,40
+KJA,Baker-Berry Library,145
+KJC,Baker-Berry Library,246
+KJE,Baker-Berry Library,181
+KJG,Baker-Berry Library,2
+KJK,Baker-Berry Library,6
+KJP,Baker-Berry Library,3
+KJT,Baker-Berry Library,1
+KJV,Baker-Berry Library,104
+KJW,Baker-Berry Library,7
+KK,Baker-Berry Library,114
+KKA,Baker-Berry Library,14
+KKB,Baker-Berry Library,1
+KKC,Baker-Berry Library,3
+KKE,Baker-Berry Library,2
+KKF,Baker-Berry Library,2
+KKG,Baker-Berry Library,2
+KKH,Baker-Berry Library,23
+KKI,Baker-Berry Library,1
+KKM,Baker-Berry Library,4
+KKN,Baker-Berry Library,1
+KKP,Baker-Berry Library,3
+KKT,Baker-Berry Library,114
+KKV,Baker-Berry Library,3
+KKW,Baker-Berry Library,5
+KKX,Baker-Berry Library,11
+KKY,Baker-Berry Library,2
+KKZ,Baker-Berry Library,3
+KL,Baker-Berry Library,75
+KLA,Baker-Berry Library,56
+KLB,Baker-Berry Library,40
+KLN,Baker-Berry Library,1
+KLP,Baker-Berry Library,1
+KLR,Baker-Berry Library,1
+KM,Baker-Berry Library,13
+KMC,Baker-Berry Library,24
+KME,Baker-Berry Library,1
+KMH,Baker-Berry Library,13
+KMJ,Baker-Berry Library,8
+KMK,Baker-Berry Library,29
+KML,Baker-Berry Library,2
+KMM,Baker-Berry Library,3
+KMN,Baker-Berry Library,2
+KMQ,Baker-Berry Library,5
+KMT,Baker-Berry Library,3
+KMU,Baker-Berry Library,1
+KMV,Baker-Berry Library,1
+KMX,Baker-Berry Library,1
+KNC,Baker-Berry Library,22
+KNF,Baker-Berry Library,1
+KNM,Baker-Berry Library,2
+KNN,Baker-Berry Library,107
+KNP,Baker-Berry Library,9
+KNQ,Baker-Berry Library,189
+KNR,Baker-Berry Library,4
+KNS,Baker-Berry Library,70
+KNT,Baker-Berry Library,2
+KNU,Baker-Berry Library,2
+KNW,Baker-Berry Library,9
+KNX,Baker-Berry Library,54
+KP,Baker-Berry Library,1
+KPA,Baker-Berry Library,27
+KPG,Baker-Berry Library,4
+KPH,Baker-Berry Library,1
+KPK,Baker-Berry Library,1
+KPL,Baker-Berry Library,17
+KPM,Baker-Berry Library,3
+KPP,Baker-Berry Library,1
+KPT,Baker-Berry Library,4
+KPV,Baker-Berry Library,1
+KQ,Baker-Berry Library,4
+KQC,Baker-Berry Library,37
+KQG,Baker-Berry Library,2
+KQK,Baker-Berry Library,2
+KQP,Baker-Berry Library,1
+KQV,Baker-Berry Library,1
+KRG,Baker-Berry Library,1
+KRM,Baker-Berry Library,13
+KRP,Baker-Berry Library,2
+KRX,Baker-Berry Library,8
+KSK,Baker-Berry Library,7
+KSN,Baker-Berry Library,2
+KSP,Baker-Berry Library,1
+KST,Baker-Berry Library,1
+KSY,Baker-Berry Library,2
+KTA,Baker-Berry Library,8
+KTD,Baker-Berry Library,9
+KTK,Baker-Berry Library,1
+KTL,Baker-Berry Library,37
+KTQ,Baker-Berry Library,5
+KTT,Baker-Berry Library,2
+KTW,Baker-Berry Library,2
+KTZ,Baker-Berry Library,4
+KU,Baker-Berry Library,44
+KUC,Baker-Berry Library,2
+KUH,Baker-Berry Library,1
+KUQ,Baker-Berry Library,11
+KVC,Baker-Berry Library,2
+KVU,Baker-Berry Library,1
+KWC,Baker-Berry Library,1
+KWH,Baker-Berry Library,2
+KWX,Baker-Berry Library,6
+KZ,Baker-Berry Library,783
+KZA,Baker-Berry Library,37
+KZD,Baker-Berry Library,6
+L,Baker-Berry Library,259
+LA,Baker-Berry Library,2738
+LB,Baker-Berry Library,6312
+LC,Baker-Berry Library,4220
+LD,Baker-Berry Library,2012
+LE,Baker-Berry Library,120
+LF,Baker-Berry Library,262
+LG,Baker-Berry Library,123
+LH,Baker-Berry Library,144
+LJ,Baker-Berry Library,64
+LT,Baker-Berry Library,2
+M,Baker-Berry Library,36022
+ML,Baker-Berry Library,20530
+MT,Baker-Berry Library,2133
+N,Baker-Berry Library,746
+NA,Baker-Berry Library,377
+NB,Baker-Berry Library,214
+NC,Baker-Berry Library,208
+ND,Baker-Berry Library,844
+NE,Baker-Berry Library,327
+NK,Baker-Berry Library,1262
+NX,Baker-Berry Library,3474
+P,Baker-Berry Library,12094
+PA,Baker-Berry Library,13418
+PB,Baker-Berry Library,602
+PC,Baker-Berry Library,6210
+PD,Baker-Berry Library,330
+PE,Baker-Berry Library,3088
+PF,Baker-Berry Library,1022
+PG,Baker-Berry Library,23305
+PH,Baker-Berry Library,721
+PJ,Baker-Berry Library,6842
+PK,Baker-Berry Library,1289
+PL,Baker-Berry Library,34629
+PM,Baker-Berry Library,1377
+PN,Baker-Berry Library,47861
+PQ,Baker-Berry Library,108724
+PR,Baker-Berry Library,45973
+PS,Baker-Berry Library,46675
+PT,Baker-Berry Library,27376
+PZ,Baker-Berry Library,1302
+Q,Baker-Berry Library,8000
+QA,Baker-Berry Library,28625
+QB,Baker-Berry Library,4596
+QC,Baker-Berry Library,15135
+QD,Baker-Berry Library,8443
+QE,Baker-Berry Library,17544
+QH,Baker-Berry Library,1406
+QK,Baker-Berry Library,220
+QL,Baker-Berry Library,639
+QM,Baker-Berry Library,54
+QP,Baker-Berry Library,739
+QR,Baker-Berry Library,58
+R,Baker-Berry Library,839
+RA,Baker-Berry Library,1081
+RB,Baker-Berry Library,43
+RC,Baker-Berry Library,1035
+RD,Baker-Berry Library,63
+RE,Baker-Berry Library,5
+RF,Baker-Berry Library,1
+RG,Baker-Berry Library,120
+RJ,Baker-Berry Library,120
+RK,Baker-Berry Library,8
+RL,Baker-Berry Library,4
+RM,Baker-Berry Library,333
+RS,Baker-Berry Library,127
+RT,Baker-Berry Library,34
+RX,Baker-Berry Library,5
+RZ,Baker-Berry Library,11
+S,Baker-Berry Library,2919
+SB,Baker-Berry Library,283
+SD,Baker-Berry Library,107
+SF,Baker-Berry Library,172
+SH,Baker-Berry Library,198
+SK,Baker-Berry Library,230
+T,Baker-Berry Library,710
+TA,Baker-Berry Library,526
+TC,Baker-Berry Library,179
+TD,Baker-Berry Library,1225
+TE,Baker-Berry Library,12
+TF,Baker-Berry Library,38
+TG,Baker-Berry Library,17
+TH,Baker-Berry Library,63
+TJ,Baker-Berry Library,243
+TK,Baker-Berry Library,694
+TL,Baker-Berry Library,487
+TN,Baker-Berry Library,1900
+TP,Baker-Berry Library,437
+TR,Baker-Berry Library,782
+TS,Baker-Berry Library,214
+TT,Baker-Berry Library,583
+TX,Baker-Berry Library,1712
+U,Baker-Berry Library,2877
+UA,Baker-Berry Library,3379
+UB,Baker-Berry Library,1025
+UC,Baker-Berry Library,250
+UD,Baker-Berry Library,75
+UE,Baker-Berry Library,36
+UF,Baker-Berry Library,213
+UG,Baker-Berry Library,1052
+UH,Baker-Berry Library,131
+Unknown,Baker-Berry Library,18821
+V,Baker-Berry Library,496
+VA,Baker-Berry Library,404
+VB,Baker-Berry Library,60
+VC,Baker-Berry Library,18
+VD,Baker-Berry Library,2
+VE,Baker-Berry Library,122
+VF,Baker-Berry Library,14
+VG,Baker-Berry Library,27
+VK,Baker-Berry Library,402
+VM,Baker-Berry Library,373
+Z,Baker-Berry Library,25155
+ZA,Baker-Berry Library,90
