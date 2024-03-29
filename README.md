@@ -10,8 +10,7 @@ Staff from Dartmouth Libraries wanted to encourage library staff and the campus 
 pip install -r requirements.txt
 ```
 
-2. Run the notebook `notebooks/library-collection.ipynb`
-3. Find the output in `out/`.
+2. Explore the Fibery Library's projects in the subdirectories!
 
 
 ## Licensing
