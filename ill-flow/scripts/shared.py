@@ -26,7 +26,15 @@ def ingest_bd(file: Path) -> pd.DataFrame:
     incomplete_status = ["REQ_UNFILLED", "REQ_END_OF_ROTA", "REQ_CANCELLED"]
     df = df[~df["Borrower status"].isin(incomplete_status)]
     df = df[~df["Lender status"].isin(incomplete_status)]
-    df = df[[partner_col, "Pick location", "Pickup location", "Date created"]]
+    df = df[
+        [
+            partner_col,
+            "Pick location",
+            "Pickup location",
+            "Date created",
+            "Local Library Call Number",
+        ]
+    ]
 
     df["Pickup location"] = df["Pickup location"].map(DARTMOUTH_LIBRARIES)
 
@@ -67,6 +75,7 @@ def ingest_ill(file: Path) -> pd.DataFrame:
             "Creation Date",
             "Document Type",
             "Library Name",
+            "Call Number",
         ]
     ]
     df = df.rename(
