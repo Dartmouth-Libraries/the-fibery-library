@@ -1,0 +1,160 @@
+From,Area,To,N
+Agriculture,STEM,Brown University,1
+Astronomy,STEM,Brown University,1
+Botany,STEM,Brown University,2
+Chemistry,STEM,Brown University,1
+Geology,STEM,Brown University,2
+Human anatomy,STEM,Brown University,1
+Mathematics,STEM,Brown University,8
+Military Science,STEM,Brown University,1
+Natural history. Biology,STEM,Brown University,1
+Naval Science,STEM,Brown University,2
+Physics,STEM,Brown University,5
+Physiology,STEM,Brown University,1
+Science (General),STEM,Brown University,7
+Technology,STEM,Brown University,8
+Zoology,STEM,Brown University,2
+Agriculture,STEM,Columbia University Libraries,7
+Astronomy,STEM,Columbia University Libraries,5
+Botany,STEM,Columbia University Libraries,2
+Chemistry,STEM,Columbia University Libraries,7
+Geology,STEM,Columbia University Libraries,2
+Mathematics,STEM,Columbia University Libraries,49
+Microbiology,STEM,Columbia University Libraries,1
+Military Science,STEM,Columbia University Libraries,7
+Natural history. Biology,STEM,Columbia University Libraries,4
+Physics,STEM,Columbia University Libraries,34
+Physiology,STEM,Columbia University Libraries,7
+Science (General),STEM,Columbia University Libraries,9
+Technology,STEM,Columbia University Libraries,29
+Zoology,STEM,Columbia University Libraries,3
+Agriculture,STEM,Cornell University,8
+Astronomy,STEM,Cornell University,3
+Botany,STEM,Cornell University,3
+Chemistry,STEM,Cornell University,5
+Geology,STEM,Cornell University,6
+Human anatomy,STEM,Cornell University,1
+Mathematics,STEM,Cornell University,14
+Military Science,STEM,Cornell University,3
+Natural history. Biology,STEM,Cornell University,7
+Physics,STEM,Cornell University,15
+Physiology,STEM,Cornell University,6
+Science (General),STEM,Cornell University,8
+Technology,STEM,Cornell University,29
+Zoology,STEM,Cornell University,3
+Agriculture,STEM,Duke University,1
+Astronomy,STEM,Duke University,1
+Chemistry,STEM,Duke University,1
+Geology,STEM,Duke University,1
+Mathematics,STEM,Duke University,6
+Military Science,STEM,Duke University,1
+Physics,STEM,Duke University,5
+Science (General),STEM,Duke University,2
+Technology,STEM,Duke University,8
+Zoology,STEM,Duke University,1
+Agriculture,STEM,Harvard University,17
+Astronomy,STEM,Harvard University,3
+Botany,STEM,Harvard University,6
+Chemistry,STEM,Harvard University,9
+Geology,STEM,Harvard University,4
+Human anatomy,STEM,Harvard University,6
+Mathematics,STEM,Harvard University,43
+Microbiology,STEM,Harvard University,1
+Military Science,STEM,Harvard University,4
+Natural history. Biology,STEM,Harvard University,8
+Physics,STEM,Harvard University,12
+Physiology,STEM,Harvard University,9
+Science (General),STEM,Harvard University,26
+Technology,STEM,Harvard University,59
+Zoology,STEM,Harvard University,3
+Agriculture,STEM,Johns Hopkins University,6
+Astronomy,STEM,Johns Hopkins University,4
+Botany,STEM,Johns Hopkins University,3
+Chemistry,STEM,Johns Hopkins University,4
+Geology,STEM,Johns Hopkins University,1
+Mathematics,STEM,Johns Hopkins University,28
+Microbiology,STEM,Johns Hopkins University,1
+Military Science,STEM,Johns Hopkins University,11
+Natural history. Biology,STEM,Johns Hopkins University,16
+Naval Science,STEM,Johns Hopkins University,1
+Physics,STEM,Johns Hopkins University,25
+Physiology,STEM,Johns Hopkins University,3
+Science (General),STEM,Johns Hopkins University,7
+Technology,STEM,Johns Hopkins University,34
+Zoology,STEM,Johns Hopkins University,3
+Agriculture,STEM,Massachusetts Institute of Technology,2
+Botany,STEM,Massachusetts Institute of Technology,1
+Chemistry,STEM,Massachusetts Institute of Technology,2
+Geology,STEM,Massachusetts Institute of Technology,1
+Mathematics,STEM,Massachusetts Institute of Technology,11
+Microbiology,STEM,Massachusetts Institute of Technology,1
+Military Science,STEM,Massachusetts Institute of Technology,1
+Naval Science,STEM,Massachusetts Institute of Technology,1
+Physics,STEM,Massachusetts Institute of Technology,3
+Physiology,STEM,Massachusetts Institute of Technology,2
+Science (General),STEM,Massachusetts Institute of Technology,6
+Technology,STEM,Massachusetts Institute of Technology,21
+Zoology,STEM,Massachusetts Institute of Technology,1
+Agriculture,STEM,Princeton University,4
+Astronomy,STEM,Princeton University,2
+Chemistry,STEM,Princeton University,4
+Geology,STEM,Princeton University,1
+Human anatomy,STEM,Princeton University,1
+Mathematics,STEM,Princeton University,28
+Military Science,STEM,Princeton University,2
+Natural history. Biology,STEM,Princeton University,6
+Physics,STEM,Princeton University,16
+Physiology,STEM,Princeton University,5
+Science (General),STEM,Princeton University,5
+Technology,STEM,Princeton University,29
+Zoology,STEM,Princeton University,3
+Agriculture,STEM,Stanford University,1
+Astronomy,STEM,Stanford University,3
+Chemistry,STEM,Stanford University,2
+Mathematics,STEM,Stanford University,16
+Military Science,STEM,Stanford University,1
+Natural history. Biology,STEM,Stanford University,2
+Physics,STEM,Stanford University,12
+Physiology,STEM,Stanford University,2
+Science (General),STEM,Stanford University,2
+Technology,STEM,Stanford University,11
+Zoology,STEM,Stanford University,1
+Agriculture,STEM,University of Chicago,1
+Chemistry,STEM,University of Chicago,4
+Human anatomy,STEM,University of Chicago,1
+Mathematics,STEM,University of Chicago,11
+Microbiology,STEM,University of Chicago,1
+Military Science,STEM,University of Chicago,1
+Natural history. Biology,STEM,University of Chicago,3
+Naval Science,STEM,University of Chicago,1
+Physics,STEM,University of Chicago,3
+Science (General),STEM,University of Chicago,3
+Technology,STEM,University of Chicago,12
+Zoology,STEM,University of Chicago,2
+Agriculture,STEM,University of Pennsylvania,6
+Botany,STEM,University of Pennsylvania,2
+Chemistry,STEM,University of Pennsylvania,8
+Geology,STEM,University of Pennsylvania,3
+Mathematics,STEM,University of Pennsylvania,24
+Microbiology,STEM,University of Pennsylvania,1
+Military Science,STEM,University of Pennsylvania,2
+Natural history. Biology,STEM,University of Pennsylvania,3
+Physics,STEM,University of Pennsylvania,6
+Physiology,STEM,University of Pennsylvania,7
+Science (General),STEM,University of Pennsylvania,16
+Technology,STEM,University of Pennsylvania,15
+Zoology,STEM,University of Pennsylvania,1
+Agriculture,STEM,Yale University,9
+Astronomy,STEM,Yale University,5
+Botany,STEM,Yale University,4
+Chemistry,STEM,Yale University,1
+Geology,STEM,Yale University,2
+Human anatomy,STEM,Yale University,1
+Mathematics,STEM,Yale University,23
+Military Science,STEM,Yale University,1
+Natural history. Biology,STEM,Yale University,15
+Physics,STEM,Yale University,16
+Physiology,STEM,Yale University,3
+Science (General),STEM,Yale University,7
+Technology,STEM,Yale University,40
+Zoology,STEM,Yale University,3

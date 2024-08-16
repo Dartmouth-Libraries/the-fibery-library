@@ -12,7 +12,6 @@ LCC_TO_AREA = {
     "L": "Social Sciences",
     "M": "Music and Arts",
     "N": "Music and Arts",
-    # "P": "Humanities",
     "P": "Language and Literature",
     "Q": "STEM",
     "R": "Medicine",
