@@ -1,48 +1,48 @@
 From,Area,To,N
-Brown University,Humanities,Auxiliary Sciences of History,4
-Brown University,Humanities,History,80
-Brown University,Humanities,Language and Literature,81
+Brown University,Humanities,"Archaeology, Genealogy, and Biography",4
+Brown University,Humanities,World History,80
 Brown University,Humanities,"Philosophy, Psychology, Religion",57
-Columbia University Libraries,Humanities,Auxiliary Sciences of History,5
+Brown University,Humanities,Language and Literature,81
 Columbia University Libraries,Humanities,Language and Literature,164
 Columbia University Libraries,Humanities,"Philosophy, Psychology, Religion",88
-Columbia University Libraries,Humanities,History,119
-Cornell University,Humanities,Auxiliary Sciences of History,4
-Cornell University,Humanities,History,102
-Cornell University,Humanities,Language and Literature,101
+Columbia University Libraries,Humanities,World History,119
+Columbia University Libraries,Humanities,"Archaeology, Genealogy, and Biography",5
+Cornell University,Humanities,World History,102
 Cornell University,Humanities,"Philosophy, Psychology, Religion",62
-Duke University,Humanities,Language and Literature,114
+Cornell University,Humanities,Language and Literature,101
+Cornell University,Humanities,"Archaeology, Genealogy, and Biography",4
+Duke University,Humanities,World History,80
 Duke University,Humanities,"Philosophy, Psychology, Religion",37
-Duke University,Humanities,History,80
+Duke University,Humanities,Language and Literature,114
+Harvard University,Humanities,"Archaeology, Genealogy, and Biography",10
+Harvard University,Humanities,World History,68
 Harvard University,Humanities,"Philosophy, Psychology, Religion",76
 Harvard University,Humanities,Language and Literature,141
-Harvard University,Humanities,History,68
-Harvard University,Humanities,Auxiliary Sciences of History,10
-Johns Hopkins University,Humanities,Language and Literature,82
-Johns Hopkins University,Humanities,Auxiliary Sciences of History,1
-Johns Hopkins University,Humanities,History,76
+Johns Hopkins University,Humanities,"Archaeology, Genealogy, and Biography",1
+Johns Hopkins University,Humanities,World History,76
 Johns Hopkins University,Humanities,"Philosophy, Psychology, Religion",31
-Massachusetts Institute of Technology,Humanities,Auxiliary Sciences of History,7
-Massachusetts Institute of Technology,Humanities,Language and Literature,85
+Johns Hopkins University,Humanities,Language and Literature,82
 Massachusetts Institute of Technology,Humanities,"Philosophy, Psychology, Religion",21
-Massachusetts Institute of Technology,Humanities,History,30
-Princeton University,Humanities,"Philosophy, Psychology, Religion",69
+Massachusetts Institute of Technology,Humanities,Language and Literature,85
+Massachusetts Institute of Technology,Humanities,World History,30
+Massachusetts Institute of Technology,Humanities,"Archaeology, Genealogy, and Biography",7
 Princeton University,Humanities,Language and Literature,121
-Princeton University,Humanities,History,107
-Princeton University,Humanities,Auxiliary Sciences of History,7
-Stanford University,Humanities,Auxiliary Sciences of History,2
-Stanford University,Humanities,History,47
-Stanford University,Humanities,Language and Literature,77
+Princeton University,Humanities,"Philosophy, Psychology, Religion",69
+Princeton University,Humanities,World History,107
+Princeton University,Humanities,"Archaeology, Genealogy, and Biography",7
+Stanford University,Humanities,"Archaeology, Genealogy, and Biography",2
+Stanford University,Humanities,World History,47
 Stanford University,Humanities,"Philosophy, Psychology, Religion",50
-University of Chicago,Humanities,History,114
-University of Chicago,Humanities,Language and Literature,111
+Stanford University,Humanities,Language and Literature,77
+University of Chicago,Humanities,World History,114
 University of Chicago,Humanities,"Philosophy, Psychology, Religion",63
-University of Chicago,Humanities,Auxiliary Sciences of History,7
-University of Pennsylvania,Humanities,Auxiliary Sciences of History,8
-University of Pennsylvania,Humanities,History,69
-University of Pennsylvania,Humanities,Language and Literature,130
+University of Chicago,Humanities,Language and Literature,111
+University of Chicago,Humanities,"Archaeology, Genealogy, and Biography",7
+University of Pennsylvania,Humanities,World History,69
 University of Pennsylvania,Humanities,"Philosophy, Psychology, Religion",60
-Yale University,Humanities,Auxiliary Sciences of History,10
-Yale University,Humanities,History,105
-Yale University,Humanities,Language and Literature,127
+University of Pennsylvania,Humanities,Language and Literature,130
+University of Pennsylvania,Humanities,"Archaeology, Genealogy, and Biography",8
+Yale University,Humanities,World History,105
 Yale University,Humanities,"Philosophy, Psychology, Religion",93
+Yale University,Humanities,Language and Literature,127
+Yale University,Humanities,"Archaeology, Genealogy, and Biography",10

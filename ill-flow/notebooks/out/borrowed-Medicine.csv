@@ -1,62 +1,38 @@
 From,Area,To,N
-Brown University,Medicine,Medicine (General),1
-Brown University,Medicine,Public aspects of medicine,1
-Brown University,Medicine,Internal medicine,3
-Columbia University Libraries,Medicine,Dentistry,1
-Columbia University Libraries,Medicine,Dermatology,1
-Columbia University Libraries,Medicine,Gynecology and obstetrics,1
-Columbia University Libraries,Medicine,Internal medicine,5
-Columbia University Libraries,Medicine,Otorhinolaryngology,1
-Columbia University Libraries,Medicine,Pharmacy and materia medica,1
-Columbia University Libraries,Medicine,Public aspects of medicine,4
-Columbia University Libraries,Medicine,Medicine (General),2
-Cornell University,Medicine,Internal medicine,3
-Cornell University,Medicine,Public aspects of medicine,5
-Duke University,Medicine,Internal medicine,2
-Duke University,Medicine,Medicine (General),4
-Duke University,Medicine,Nursing,1
-Duke University,Medicine,Public aspects of medicine,2
-Harvard University,Medicine,Public aspects of medicine,1
-Harvard University,Medicine,Pharmacy and materia medica,1
-Harvard University,Medicine,Ophthalmology,1
-Harvard University,Medicine,Internal medicine,2
-Johns Hopkins University,Medicine,Internal medicine,1
-Johns Hopkins University,Medicine,Medicine (General),77
-Johns Hopkins University,Medicine,Public aspects of medicine,3
-Massachusetts Institute of Technology,Medicine,Gynecology and obstetrics,1
-Massachusetts Institute of Technology,Medicine,Internal medicine,5
-Massachusetts Institute of Technology,Medicine,Medicine (General),1
-Massachusetts Institute of Technology,Medicine,Pathology,1
-Massachusetts Institute of Technology,Medicine,Pharmacy and materia medica,1
-Massachusetts Institute of Technology,Medicine,Public aspects of medicine,4
-Massachusetts Institute of Technology,Medicine,Pediatrics,1
-Princeton University,Medicine,Public aspects of medicine,5
-Princeton University,Medicine,Pathology,1
-Princeton University,Medicine,Medicine (General),3
-Princeton University,Medicine,Internal medicine,1
-Princeton University,Medicine,Gynecology and obstetrics,1
-Stanford University,Medicine,Internal medicine,2
-Stanford University,Medicine,Medicine (General),4
-Stanford University,Medicine,Pathology,1
-Stanford University,Medicine,Public aspects of medicine,2
-University of Chicago,Medicine,Gynecology and obstetrics,1
-University of Chicago,Medicine,Internal medicine,4
-University of Chicago,Medicine,Medicine (General),5
-University of Chicago,Medicine,Pediatrics,2
-University of Chicago,Medicine,Ophthalmology,1
-University of Chicago,Medicine,Therapeutics. Pharmacology,1
-University of Chicago,Medicine,Public aspects of medicine,3
-University of Pennsylvania,Medicine,Gynecology and obstetrics,2
-University of Pennsylvania,Medicine,Internal medicine,5
-University of Pennsylvania,Medicine,Otorhinolaryngology,1
-University of Pennsylvania,Medicine,Pharmacy and materia medica,1
-University of Pennsylvania,Medicine,Public aspects of medicine,5
-University of Pennsylvania,Medicine,Therapeutics. Pharmacology,1
-University of Pennsylvania,Medicine,Medicine (General),3
-Yale University,Medicine,Surgery,1
-Yale University,Medicine,Dentistry,1
-Yale University,Medicine,Internal medicine,5
-Yale University,Medicine,Medicine (General),1
-Yale University,Medicine,Pediatrics,1
-Yale University,Medicine,Public aspects of medicine,1
-Yale University,Medicine,Otorhinolaryngology,1
+Brown University,Medicine,Medicine and Public Health,2
+Brown University,Medicine,General Care,3
+Columbia University Libraries,Medicine,Medicine and Public Health,6
+Columbia University Libraries,Medicine,Pharmacology,1
+Columbia University Libraries,Medicine,Specialty Care,3
+Columbia University Libraries,Medicine,General Care,6
+Cornell University,Medicine,Medicine and Public Health,5
+Cornell University,Medicine,General Care,3
+Duke University,Medicine,Medicine and Public Health,6
+Duke University,Medicine,General Care,3
+Harvard University,Medicine,Specialty Care,1
+Harvard University,Medicine,Pharmacology,1
+Harvard University,Medicine,Medicine and Public Health,1
+Harvard University,Medicine,General Care,2
+Johns Hopkins University,Medicine,Medicine and Public Health,80
+Johns Hopkins University,Medicine,General Care,1
+Massachusetts Institute of Technology,Medicine,Medicine and Public Health,5
+Massachusetts Institute of Technology,Medicine,Pharmacology,1
+Massachusetts Institute of Technology,Medicine,Specialty Care,2
+Massachusetts Institute of Technology,Medicine,General Care,6
+Princeton University,Medicine,Medicine and Public Health,8
+Princeton University,Medicine,Specialty Care,2
+Princeton University,Medicine,General Care,1
+Stanford University,Medicine,Specialty Care,1
+Stanford University,Medicine,Medicine and Public Health,6
+Stanford University,Medicine,General Care,2
+University of Chicago,Medicine,Medicine and Public Health,8
+University of Chicago,Medicine,Specialty Care,2
+University of Chicago,Medicine,Pharmacology,1
+University of Chicago,Medicine,General Care,6
+University of Pennsylvania,Medicine,Specialty Care,3
+University of Pennsylvania,Medicine,Pharmacology,2
+University of Pennsylvania,Medicine,Medicine and Public Health,8
+University of Pennsylvania,Medicine,General Care,5
+Yale University,Medicine,General Care,7
+Yale University,Medicine,Specialty Care,2
+Yale University,Medicine,Medicine and Public Health,2
