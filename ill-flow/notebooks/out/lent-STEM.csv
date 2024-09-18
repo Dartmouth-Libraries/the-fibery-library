@@ -1,49 +1,49 @@
-From,Area,To,N
-Applied Sciences and Engineering,STEM,Brown University,12
-General Science and Mathematics,STEM,Brown University,15
-Life Sciences,STEM,Brown University,7
-Physical Sciences,STEM,Brown University,9
-Applied Sciences and Engineering,STEM,Columbia University Libraries,43
-General Science and Mathematics,STEM,Columbia University Libraries,58
-Life Sciences,STEM,Columbia University Libraries,17
-Physical Sciences,STEM,Columbia University Libraries,48
-Applied Sciences and Engineering,STEM,Cornell University,40
-General Science and Mathematics,STEM,Cornell University,22
-Life Sciences,STEM,Cornell University,20
-Physical Sciences,STEM,Cornell University,29
-Applied Sciences and Engineering,STEM,Duke University,10
-General Science and Mathematics,STEM,Duke University,8
-Life Sciences,STEM,Duke University,1
-Physical Sciences,STEM,Duke University,8
-Applied Sciences and Engineering,STEM,Harvard University,80
-General Science and Mathematics,STEM,Harvard University,69
-Life Sciences,STEM,Harvard University,33
-Physical Sciences,STEM,Harvard University,28
-Applied Sciences and Engineering,STEM,Johns Hopkins University,52
-General Science and Mathematics,STEM,Johns Hopkins University,35
-Life Sciences,STEM,Johns Hopkins University,26
-Physical Sciences,STEM,Johns Hopkins University,34
-Applied Sciences and Engineering,STEM,Massachusetts Institute of Technology,25
-General Science and Mathematics,STEM,Massachusetts Institute of Technology,17
-Life Sciences,STEM,Massachusetts Institute of Technology,5
-Physical Sciences,STEM,Massachusetts Institute of Technology,6
-Applied Sciences and Engineering,STEM,Princeton University,35
-General Science and Mathematics,STEM,Princeton University,33
-Life Sciences,STEM,Princeton University,15
-Physical Sciences,STEM,Princeton University,23
-Applied Sciences and Engineering,STEM,Stanford University,13
-General Science and Mathematics,STEM,Stanford University,18
-Life Sciences,STEM,Stanford University,5
-Physical Sciences,STEM,Stanford University,17
-Applied Sciences and Engineering,STEM,University of Chicago,15
-General Science and Mathematics,STEM,University of Chicago,14
-Life Sciences,STEM,University of Chicago,7
-Physical Sciences,STEM,University of Chicago,7
-Applied Sciences and Engineering,STEM,University of Pennsylvania,23
-General Science and Mathematics,STEM,University of Pennsylvania,40
-Life Sciences,STEM,University of Pennsylvania,14
-Physical Sciences,STEM,University of Pennsylvania,17
-Applied Sciences and Engineering,STEM,Yale University,50
-General Science and Mathematics,STEM,Yale University,30
-Life Sciences,STEM,Yale University,26
-Physical Sciences,STEM,Yale University,24
+From,Area,To,N,Quartile,Rank
+Physical Sciences,STEM,Brown University,9,2,3
+General Science and Mathematics,STEM,Brown University,15,2,1
+Applied Sciences and Engineering,STEM,Brown University,12,2,2
+Life Sciences,STEM,Brown University,7,1,4
+Physical Sciences,STEM,Columbia University Libraries,48,3,2
+Life Sciences,STEM,Columbia University Libraries,17,2,4
+Applied Sciences and Engineering,STEM,Columbia University Libraries,43,3,3
+General Science and Mathematics,STEM,Columbia University Libraries,58,4,1
+Physical Sciences,STEM,Cornell University,29,3,2
+Life Sciences,STEM,Cornell University,20,3,4
+General Science and Mathematics,STEM,Cornell University,22,3,3
+Applied Sciences and Engineering,STEM,Cornell University,40,3,1
+General Science and Mathematics,STEM,Duke University,8,1,2
+Life Sciences,STEM,Duke University,1,1,4
+Physical Sciences,STEM,Duke University,8,1,2
+Applied Sciences and Engineering,STEM,Duke University,10,2,1
+General Science and Mathematics,STEM,Harvard University,69,4,2
+Life Sciences,STEM,Harvard University,33,3,3
+Physical Sciences,STEM,Harvard University,28,3,4
+Applied Sciences and Engineering,STEM,Harvard University,80,4,1
+Applied Sciences and Engineering,STEM,Johns Hopkins University,52,4,1
+General Science and Mathematics,STEM,Johns Hopkins University,35,3,2
+Life Sciences,STEM,Johns Hopkins University,26,3,4
+Physical Sciences,STEM,Johns Hopkins University,34,3,3
+General Science and Mathematics,STEM,Massachusetts Institute of Technology,17,2,2
+Life Sciences,STEM,Massachusetts Institute of Technology,5,1,4
+Physical Sciences,STEM,Massachusetts Institute of Technology,6,1,3
+Applied Sciences and Engineering,STEM,Massachusetts Institute of Technology,25,3,1
+Applied Sciences and Engineering,STEM,Princeton University,35,3,1
+General Science and Mathematics,STEM,Princeton University,33,3,2
+Life Sciences,STEM,Princeton University,15,2,4
+Physical Sciences,STEM,Princeton University,23,3,3
+Physical Sciences,STEM,Stanford University,17,2,2
+Life Sciences,STEM,Stanford University,5,1,4
+General Science and Mathematics,STEM,Stanford University,18,2,1
+Applied Sciences and Engineering,STEM,Stanford University,13,2,3
+General Science and Mathematics,STEM,University of Chicago,14,2,2
+Life Sciences,STEM,University of Chicago,7,1,3
+Applied Sciences and Engineering,STEM,University of Chicago,15,2,1
+Physical Sciences,STEM,University of Chicago,7,1,3
+Applied Sciences and Engineering,STEM,University of Pennsylvania,23,3,2
+General Science and Mathematics,STEM,University of Pennsylvania,40,3,1
+Life Sciences,STEM,University of Pennsylvania,14,2,4
+Physical Sciences,STEM,University of Pennsylvania,17,2,3
+Applied Sciences and Engineering,STEM,Yale University,50,3,1
+General Science and Mathematics,STEM,Yale University,30,3,2
+Physical Sciences,STEM,Yale University,24,3,4
+Life Sciences,STEM,Yale University,26,3,3

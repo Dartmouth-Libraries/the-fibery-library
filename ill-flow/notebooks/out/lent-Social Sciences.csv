@@ -1,49 +1,49 @@
-From,Area,To,N
-"Business, Economics and Sociology",Social Sciences,Brown University,50
-"Geography, Anthropology, Recreation",Social Sciences,Brown University,15
-Government and Law,Social Sciences,Brown University,19
-Information Science and Education,Social Sciences,Brown University,4
-"Business, Economics and Sociology",Social Sciences,Columbia University Libraries,158
-"Geography, Anthropology, Recreation",Social Sciences,Columbia University Libraries,49
-Government and Law,Social Sciences,Columbia University Libraries,43
-Information Science and Education,Social Sciences,Columbia University Libraries,18
-"Business, Economics and Sociology",Social Sciences,Cornell University,123
-"Geography, Anthropology, Recreation",Social Sciences,Cornell University,44
-Government and Law,Social Sciences,Cornell University,36
-Information Science and Education,Social Sciences,Cornell University,13
-"Business, Economics and Sociology",Social Sciences,Duke University,26
-"Geography, Anthropology, Recreation",Social Sciences,Duke University,13
-Government and Law,Social Sciences,Duke University,3
-Information Science and Education,Social Sciences,Duke University,7
-"Business, Economics and Sociology",Social Sciences,Harvard University,188
-"Geography, Anthropology, Recreation",Social Sciences,Harvard University,67
-Government and Law,Social Sciences,Harvard University,74
-Information Science and Education,Social Sciences,Harvard University,32
-"Business, Economics and Sociology",Social Sciences,Johns Hopkins University,155
-"Geography, Anthropology, Recreation",Social Sciences,Johns Hopkins University,42
-Government and Law,Social Sciences,Johns Hopkins University,51
-Information Science and Education,Social Sciences,Johns Hopkins University,22
-"Business, Economics and Sociology",Social Sciences,Massachusetts Institute of Technology,17
-"Geography, Anthropology, Recreation",Social Sciences,Massachusetts Institute of Technology,13
-Government and Law,Social Sciences,Massachusetts Institute of Technology,12
-Information Science and Education,Social Sciences,Massachusetts Institute of Technology,7
-"Business, Economics and Sociology",Social Sciences,Princeton University,128
-"Geography, Anthropology, Recreation",Social Sciences,Princeton University,37
-Government and Law,Social Sciences,Princeton University,38
-Information Science and Education,Social Sciences,Princeton University,22
-"Business, Economics and Sociology",Social Sciences,Stanford University,56
-"Geography, Anthropology, Recreation",Social Sciences,Stanford University,10
-Government and Law,Social Sciences,Stanford University,16
-Information Science and Education,Social Sciences,Stanford University,10
-"Business, Economics and Sociology",Social Sciences,University of Chicago,61
-"Geography, Anthropology, Recreation",Social Sciences,University of Chicago,18
-Government and Law,Social Sciences,University of Chicago,20
-Information Science and Education,Social Sciences,University of Chicago,12
-"Business, Economics and Sociology",Social Sciences,University of Pennsylvania,84
-"Geography, Anthropology, Recreation",Social Sciences,University of Pennsylvania,20
-Government and Law,Social Sciences,University of Pennsylvania,23
-Information Science and Education,Social Sciences,University of Pennsylvania,14
-"Business, Economics and Sociology",Social Sciences,Yale University,150
-"Geography, Anthropology, Recreation",Social Sciences,Yale University,44
-Government and Law,Social Sciences,Yale University,66
-Information Science and Education,Social Sciences,Yale University,31
+From,Area,To,N,Quartile,Rank
+Information Science and Education,Social Sciences,Brown University,4,1,4
+Government and Law,Social Sciences,Brown University,19,3,2
+"Geography, Anthropology, Recreation",Social Sciences,Brown University,15,2,3
+"Business, Economics and Sociology",Social Sciences,Brown University,50,3,1
+Information Science and Education,Social Sciences,Columbia University Libraries,18,2,4
+Government and Law,Social Sciences,Columbia University Libraries,43,3,3
+"Geography, Anthropology, Recreation",Social Sciences,Columbia University Libraries,49,3,2
+"Business, Economics and Sociology",Social Sciences,Columbia University Libraries,158,4,1
+Information Science and Education,Social Sciences,Cornell University,13,2,4
+Government and Law,Social Sciences,Cornell University,36,3,3
+"Geography, Anthropology, Recreation",Social Sciences,Cornell University,44,3,2
+"Business, Economics and Sociology",Social Sciences,Cornell University,123,4,1
+Information Science and Education,Social Sciences,Duke University,7,1,3
+"Geography, Anthropology, Recreation",Social Sciences,Duke University,13,2,2
+Government and Law,Social Sciences,Duke University,3,1,4
+"Business, Economics and Sociology",Social Sciences,Duke University,26,3,1
+Information Science and Education,Social Sciences,Harvard University,32,3,4
+"Geography, Anthropology, Recreation",Social Sciences,Harvard University,67,4,3
+Government and Law,Social Sciences,Harvard University,74,4,2
+"Business, Economics and Sociology",Social Sciences,Harvard University,188,4,1
+Information Science and Education,Social Sciences,Johns Hopkins University,22,3,4
+"Business, Economics and Sociology",Social Sciences,Johns Hopkins University,155,4,1
+"Geography, Anthropology, Recreation",Social Sciences,Johns Hopkins University,42,3,3
+Government and Law,Social Sciences,Johns Hopkins University,51,3,2
+"Geography, Anthropology, Recreation",Social Sciences,Massachusetts Institute of Technology,13,2,2
+Government and Law,Social Sciences,Massachusetts Institute of Technology,12,2,3
+Information Science and Education,Social Sciences,Massachusetts Institute of Technology,7,1,4
+"Business, Economics and Sociology",Social Sciences,Massachusetts Institute of Technology,17,2,1
+Government and Law,Social Sciences,Princeton University,38,3,2
+"Business, Economics and Sociology",Social Sciences,Princeton University,128,4,1
+"Geography, Anthropology, Recreation",Social Sciences,Princeton University,37,3,3
+Information Science and Education,Social Sciences,Princeton University,22,3,4
+Government and Law,Social Sciences,Stanford University,16,2,2
+"Geography, Anthropology, Recreation",Social Sciences,Stanford University,10,2,3
+"Business, Economics and Sociology",Social Sciences,Stanford University,56,4,1
+Information Science and Education,Social Sciences,Stanford University,10,2,3
+Information Science and Education,Social Sciences,University of Chicago,12,2,4
+Government and Law,Social Sciences,University of Chicago,20,3,2
+"Business, Economics and Sociology",Social Sciences,University of Chicago,61,4,1
+"Geography, Anthropology, Recreation",Social Sciences,University of Chicago,18,2,3
+Information Science and Education,Social Sciences,University of Pennsylvania,14,2,4
+"Geography, Anthropology, Recreation",Social Sciences,University of Pennsylvania,20,3,3
+Government and Law,Social Sciences,University of Pennsylvania,23,3,2
+"Business, Economics and Sociology",Social Sciences,University of Pennsylvania,84,4,1
+"Geography, Anthropology, Recreation",Social Sciences,Yale University,44,3,3
+"Business, Economics and Sociology",Social Sciences,Yale University,150,4,1
+Government and Law,Social Sciences,Yale University,66,4,2
+Information Science and Education,Social Sciences,Yale University,31,3,4

@@ -1,48 +1,48 @@
-From,Area,To,N
-Brown University,Humanities,"Archaeology, Genealogy, and Biography",4
-Brown University,Humanities,World History,80
-Brown University,Humanities,"Philosophy, Psychology, Religion",57
-Brown University,Humanities,Language and Literature,81
-Columbia University Libraries,Humanities,Language and Literature,164
-Columbia University Libraries,Humanities,"Philosophy, Psychology, Religion",88
-Columbia University Libraries,Humanities,World History,119
-Columbia University Libraries,Humanities,"Archaeology, Genealogy, and Biography",5
-Cornell University,Humanities,World History,102
-Cornell University,Humanities,"Philosophy, Psychology, Religion",62
-Cornell University,Humanities,Language and Literature,101
-Cornell University,Humanities,"Archaeology, Genealogy, and Biography",4
-Duke University,Humanities,World History,80
-Duke University,Humanities,"Philosophy, Psychology, Religion",37
-Duke University,Humanities,Language and Literature,114
-Harvard University,Humanities,"Archaeology, Genealogy, and Biography",10
-Harvard University,Humanities,World History,68
-Harvard University,Humanities,"Philosophy, Psychology, Religion",76
-Harvard University,Humanities,Language and Literature,141
-Johns Hopkins University,Humanities,"Archaeology, Genealogy, and Biography",1
-Johns Hopkins University,Humanities,World History,76
-Johns Hopkins University,Humanities,"Philosophy, Psychology, Religion",31
-Johns Hopkins University,Humanities,Language and Literature,82
-Massachusetts Institute of Technology,Humanities,"Philosophy, Psychology, Religion",21
-Massachusetts Institute of Technology,Humanities,Language and Literature,85
-Massachusetts Institute of Technology,Humanities,World History,30
-Massachusetts Institute of Technology,Humanities,"Archaeology, Genealogy, and Biography",7
-Princeton University,Humanities,Language and Literature,121
-Princeton University,Humanities,"Philosophy, Psychology, Religion",69
-Princeton University,Humanities,World History,107
-Princeton University,Humanities,"Archaeology, Genealogy, and Biography",7
-Stanford University,Humanities,"Archaeology, Genealogy, and Biography",2
-Stanford University,Humanities,World History,47
-Stanford University,Humanities,"Philosophy, Psychology, Religion",50
-Stanford University,Humanities,Language and Literature,77
-University of Chicago,Humanities,World History,114
-University of Chicago,Humanities,"Philosophy, Psychology, Religion",63
-University of Chicago,Humanities,Language and Literature,111
-University of Chicago,Humanities,"Archaeology, Genealogy, and Biography",7
-University of Pennsylvania,Humanities,World History,69
-University of Pennsylvania,Humanities,"Philosophy, Psychology, Religion",60
-University of Pennsylvania,Humanities,Language and Literature,130
-University of Pennsylvania,Humanities,"Archaeology, Genealogy, and Biography",8
-Yale University,Humanities,World History,105
-Yale University,Humanities,"Philosophy, Psychology, Religion",93
-Yale University,Humanities,Language and Literature,127
-Yale University,Humanities,"Archaeology, Genealogy, and Biography",10
+From,Area,To,N,Quartile,Rank
+Brown University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4
+Brown University,Humanities,World History,80,4,2
+Brown University,Humanities,"Philosophy, Psychology, Religion",57,4,3
+Brown University,Humanities,Language and Literature,81,4,1
+Columbia University Libraries,Humanities,Language and Literature,164,4,1
+Columbia University Libraries,Humanities,"Philosophy, Psychology, Religion",88,4,3
+Columbia University Libraries,Humanities,World History,119,4,2
+Columbia University Libraries,Humanities,"Archaeology, Genealogy, and Biography",5,2,4
+Cornell University,Humanities,World History,102,4,1
+Cornell University,Humanities,"Philosophy, Psychology, Religion",62,4,3
+Cornell University,Humanities,Language and Literature,101,4,2
+Cornell University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4
+Duke University,Humanities,World History,80,4,2
+Duke University,Humanities,"Philosophy, Psychology, Religion",37,4,3
+Duke University,Humanities,Language and Literature,114,4,1
+Harvard University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4
+Harvard University,Humanities,World History,68,4,3
+Harvard University,Humanities,"Philosophy, Psychology, Religion",76,4,2
+Harvard University,Humanities,Language and Literature,141,4,1
+Johns Hopkins University,Humanities,"Archaeology, Genealogy, and Biography",1,1,4
+Johns Hopkins University,Humanities,World History,76,4,2
+Johns Hopkins University,Humanities,"Philosophy, Psychology, Religion",31,4,3
+Johns Hopkins University,Humanities,Language and Literature,82,4,1
+Massachusetts Institute of Technology,Humanities,"Philosophy, Psychology, Religion",21,3,3
+Massachusetts Institute of Technology,Humanities,Language and Literature,85,4,1
+Massachusetts Institute of Technology,Humanities,World History,30,4,2
+Massachusetts Institute of Technology,Humanities,"Archaeology, Genealogy, and Biography",7,2,4
+Princeton University,Humanities,Language and Literature,121,4,1
+Princeton University,Humanities,"Philosophy, Psychology, Religion",69,4,3
+Princeton University,Humanities,World History,107,4,2
+Princeton University,Humanities,"Archaeology, Genealogy, and Biography",7,2,4
+Stanford University,Humanities,"Archaeology, Genealogy, and Biography",2,1,4
+Stanford University,Humanities,World History,47,4,3
+Stanford University,Humanities,"Philosophy, Psychology, Religion",50,4,2
+Stanford University,Humanities,Language and Literature,77,4,1
+University of Chicago,Humanities,World History,114,4,1
+University of Chicago,Humanities,"Philosophy, Psychology, Religion",63,4,3
+University of Chicago,Humanities,Language and Literature,111,4,2
+University of Chicago,Humanities,"Archaeology, Genealogy, and Biography",7,2,4
+University of Pennsylvania,Humanities,World History,69,4,2
+University of Pennsylvania,Humanities,"Philosophy, Psychology, Religion",60,4,3
+University of Pennsylvania,Humanities,Language and Literature,130,4,1
+University of Pennsylvania,Humanities,"Archaeology, Genealogy, and Biography",8,2,4
+Yale University,Humanities,World History,105,4,2
+Yale University,Humanities,"Philosophy, Psychology, Religion",93,4,3
+Yale University,Humanities,Language and Literature,127,4,1
+Yale University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4
