@@ -1,48 +1,48 @@
-From,Area,To,N,Quartile,Rank
-Brown University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4
-Brown University,Humanities,World History,80,4,2
-Brown University,Humanities,"Philosophy, Psychology, Religion",57,4,3
-Brown University,Humanities,Language and Literature,81,4,1
-Columbia University Libraries,Humanities,Language and Literature,164,4,1
-Columbia University Libraries,Humanities,"Philosophy, Psychology, Religion",88,4,3
-Columbia University Libraries,Humanities,World History,119,4,2
-Columbia University Libraries,Humanities,"Archaeology, Genealogy, and Biography",5,2,4
-Cornell University,Humanities,World History,102,4,1
-Cornell University,Humanities,"Philosophy, Psychology, Religion",62,4,3
-Cornell University,Humanities,Language and Literature,101,4,2
-Cornell University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4
-Duke University,Humanities,World History,80,4,2
-Duke University,Humanities,"Philosophy, Psychology, Religion",37,4,3
-Duke University,Humanities,Language and Literature,114,4,1
-Harvard University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4
-Harvard University,Humanities,World History,68,4,3
-Harvard University,Humanities,"Philosophy, Psychology, Religion",76,4,2
-Harvard University,Humanities,Language and Literature,141,4,1
-Johns Hopkins University,Humanities,"Archaeology, Genealogy, and Biography",1,1,4
-Johns Hopkins University,Humanities,World History,76,4,2
-Johns Hopkins University,Humanities,"Philosophy, Psychology, Religion",31,4,3
-Johns Hopkins University,Humanities,Language and Literature,82,4,1
-Massachusetts Institute of Technology,Humanities,"Philosophy, Psychology, Religion",21,3,3
-Massachusetts Institute of Technology,Humanities,Language and Literature,85,4,1
-Massachusetts Institute of Technology,Humanities,World History,30,4,2
-Massachusetts Institute of Technology,Humanities,"Archaeology, Genealogy, and Biography",7,2,4
-Princeton University,Humanities,Language and Literature,121,4,1
-Princeton University,Humanities,"Philosophy, Psychology, Religion",69,4,3
-Princeton University,Humanities,World History,107,4,2
-Princeton University,Humanities,"Archaeology, Genealogy, and Biography",7,2,4
-Stanford University,Humanities,"Archaeology, Genealogy, and Biography",2,1,4
-Stanford University,Humanities,World History,47,4,3
-Stanford University,Humanities,"Philosophy, Psychology, Religion",50,4,2
-Stanford University,Humanities,Language and Literature,77,4,1
-University of Chicago,Humanities,World History,114,4,1
-University of Chicago,Humanities,"Philosophy, Psychology, Religion",63,4,3
-University of Chicago,Humanities,Language and Literature,111,4,2
-University of Chicago,Humanities,"Archaeology, Genealogy, and Biography",7,2,4
-University of Pennsylvania,Humanities,World History,69,4,2
-University of Pennsylvania,Humanities,"Philosophy, Psychology, Religion",60,4,3
-University of Pennsylvania,Humanities,Language and Literature,130,4,1
-University of Pennsylvania,Humanities,"Archaeology, Genealogy, and Biography",8,2,4
-Yale University,Humanities,World History,105,4,2
-Yale University,Humanities,"Philosophy, Psychology, Religion",93,4,3
-Yale University,Humanities,Language and Literature,127,4,1
-Yale University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4
+From,Area,To,N,Quartile,Rank,Number of i-cords,Color
+Brown University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4,2,suede
+Brown University,Humanities,"Philosophy, Psychology, Religion",57,4,3,4,doe
+Brown University,Humanities,World History,80,4,2,4,mongoose
+Brown University,Humanities,Language and Literature,81,4,1,4,bison
+Columbia University Libraries,Humanities,"Archaeology, Genealogy, and Biography",5,2,4,2,mist
+Columbia University Libraries,Humanities,"Philosophy, Psychology, Religion",88,4,3,4,bluebell
+Columbia University Libraries,Humanities,World History,119,4,2,4,opal heather
+Columbia University Libraries,Humanities,Language and Literature,164,4,1,4,blue
+Cornell University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4,2,white
+Cornell University,Humanities,"Philosophy, Psychology, Religion",62,4,3,4,raspberry heather
+Cornell University,Humanities,Language and Literature,101,4,2,4,brown sugar
+Cornell University,Humanities,World History,102,4,1,4,bark
+Duke University,Humanities,"Philosophy, Psychology, Religion",37,4,3,4,ciel
+Duke University,Humanities,World History,80,4,2,4,delta
+Duke University,Humanities,Language and Literature,114,4,1,4,celestial
+Harvard University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4,3,gosling
+Harvard University,Humanities,World History,68,4,3,4,pimento
+Harvard University,Humanities,"Philosophy, Psychology, Religion",76,4,2,4,ash
+Harvard University,Humanities,Language and Literature,141,4,1,4,asphalt heather
+Johns Hopkins University,Humanities,"Archaeology, Genealogy, and Biography",1,1,4,1,sage brush
+Johns Hopkins University,Humanities,"Philosophy, Psychology, Religion",31,4,3,4,pool
+Johns Hopkins University,Humanities,World History,76,4,2,4,seafaring
+Johns Hopkins University,Humanities,Language and Literature,82,4,1,4,marine heather
+Massachusetts Institute of Technology,Humanities,"Archaeology, Genealogy, and Biography",7,2,4,2,silver
+Massachusetts Institute of Technology,Humanities,"Philosophy, Psychology, Religion",21,3,3,3,tomato
+Massachusetts Institute of Technology,Humanities,World History,30,4,2,4,garnet heather
+Massachusetts Institute of Technology,Humanities,Language and Literature,85,4,1,4,black
+Princeton University,Humanities,"Archaeology, Genealogy, and Biography",7,2,4,2,turmeric
+Princeton University,Humanities,"Philosophy, Psychology, Religion",69,4,3,4,sweet potato
+Princeton University,Humanities,World History,107,4,2,4,orange
+Princeton University,Humanities,Language and Literature,121,4,1,4,asphalt heather
+Stanford University,Humanities,"Archaeology, Genealogy, and Biography",2,1,4,1,peony
+Stanford University,Humanities,World History,47,4,3,4,mauve
+Stanford University,Humanities,"Philosophy, Psychology, Religion",50,4,2,4,serrano
+Stanford University,Humanities,Language and Literature,77,4,1,4,lingonberry heather
+University of Chicago,Humanities,"Archaeology, Genealogy, and Biography",7,2,4,2,canary
+University of Chicago,Humanities,"Philosophy, Psychology, Religion",63,4,3,4,toffee
+University of Chicago,Humanities,Language and Literature,111,4,2,4,autumn heather
+University of Chicago,Humanities,World History,114,4,1,4,hazelnut
+University of Pennsylvania,Humanities,"Archaeology, Genealogy, and Biography",8,2,4,2,sky
+University of Pennsylvania,Humanities,"Philosophy, Psychology, Religion",60,4,3,4,lipstick
+University of Pennsylvania,Humanities,World History,69,4,2,4,mulberry
+University of Pennsylvania,Humanities,Language and Literature,130,4,1,4,jay
+Yale University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4,3,cream
+Yale University,Humanities,"Philosophy, Psychology, Religion",93,4,3,4,sinnley heather
+Yale University,Humanities,World History,105,4,2,4,marble heather
+Yale University,Humanities,Language and Literature,127,4,1,4,navy

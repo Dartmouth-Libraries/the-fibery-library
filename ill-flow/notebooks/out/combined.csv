@@ -1,0 +1,454 @@
+From,Area,To,N,Quartile,Rank,Number of i-cords,Color
+Brown University,Social Sciences,Information Science and Education,8,2,4,2,suede
+Brown University,Social Sciences,"Geography, Anthropology, Recreation",11,3,3,3,doe
+Brown University,Social Sciences,Government and Law,37,4,2,4,mongoose
+Brown University,Social Sciences,"Business, Economics and Sociology",50,4,1,4,bison
+Columbia University Libraries,Social Sciences,Information Science and Education,15,3,4,3,mist
+Columbia University Libraries,Social Sciences,"Geography, Anthropology, Recreation",25,3,3,3,bluebell
+Columbia University Libraries,Social Sciences,Government and Law,30,4,2,4,opal heather
+Columbia University Libraries,Social Sciences,"Business, Economics and Sociology",69,4,1,4,blue
+Cornell University,Social Sciences,"Geography, Anthropology, Recreation",11,3,4,3,white
+Cornell University,Social Sciences,Information Science and Education,13,3,3,3,raspberry heather
+Cornell University,Social Sciences,Government and Law,30,4,2,4,brown sugar
+Cornell University,Social Sciences,"Business, Economics and Sociology",64,4,1,4,bark
+Duke University,Social Sciences,Information Science and Education,7,2,4,2,chicory
+Duke University,Social Sciences,"Geography, Anthropology, Recreation",11,3,3,3,ciel
+Duke University,Social Sciences,Government and Law,35,4,2,4,delta
+Duke University,Social Sciences,"Business, Economics and Sociology",49,4,1,4,celestial
+Harvard University,Social Sciences,Information Science and Education,15,3,4,3,gosling
+Harvard University,Social Sciences,"Geography, Anthropology, Recreation",18,3,3,3,pimento
+Harvard University,Social Sciences,Government and Law,23,3,2,3,ash
+Harvard University,Social Sciences,"Business, Economics and Sociology",62,4,1,4,asphalt heather
+Johns Hopkins University,Social Sciences,Information Science and Education,7,2,4,2,sage brush
+Johns Hopkins University,Social Sciences,"Geography, Anthropology, Recreation",10,3,3,3,pool
+Johns Hopkins University,Social Sciences,Government and Law,27,3,2,3,seafaring
+Johns Hopkins University,Social Sciences,"Business, Economics and Sociology",39,4,1,4,marine heather
+Massachusetts Institute of Technology,Social Sciences,Information Science and Education,5,2,4,2,silver
+Massachusetts Institute of Technology,Social Sciences,"Geography, Anthropology, Recreation",9,3,3,3,tomato
+Massachusetts Institute of Technology,Social Sciences,Government and Law,22,3,2,3,garnet heather
+Massachusetts Institute of Technology,Social Sciences,"Business, Economics and Sociology",70,4,1,4,black
+Princeton University,Social Sciences,Information Science and Education,12,3,4,3,turmeric
+Princeton University,Social Sciences,"Geography, Anthropology, Recreation",25,3,3,3,sweet potato
+Princeton University,Social Sciences,Government and Law,28,4,2,4,orange
+Princeton University,Social Sciences,"Business, Economics and Sociology",84,4,1,4,asphalt heather
+Stanford University,Social Sciences,Information Science and Education,6,2,4,2,peony
+Stanford University,Social Sciences,Government and Law,9,3,3,3,mauve
+Stanford University,Social Sciences,"Geography, Anthropology, Recreation",17,3,2,3,serrano
+Stanford University,Social Sciences,"Business, Economics and Sociology",30,4,1,4,lingonberry heather
+University of Chicago,Social Sciences,"Geography, Anthropology, Recreation",10,3,4,3,canary
+University of Chicago,Social Sciences,Government and Law,19,3,2,3,autumn heather
+University of Chicago,Social Sciences,Information Science and Education,19,3,2,3,autumn heather
+University of Chicago,Social Sciences,"Business, Economics and Sociology",72,4,1,4,hazelnut
+University of Pennsylvania,Social Sciences,"Geography, Anthropology, Recreation",20,3,3,3,lipstick
+University of Pennsylvania,Social Sciences,Information Science and Education,20,3,3,3,lipstick
+University of Pennsylvania,Social Sciences,Government and Law,24,3,2,3,mulberry
+University of Pennsylvania,Social Sciences,"Business, Economics and Sociology",74,4,1,4,jay
+Yale University,Social Sciences,Information Science and Education,11,3,4,3,cream
+Yale University,Social Sciences,"Geography, Anthropology, Recreation",20,3,3,3,sinnley heather
+Yale University,Social Sciences,Government and Law,33,4,2,4,marble heather
+Yale University,Social Sciences,"Business, Economics and Sociology",66,4,1,4,navy
+Brown University,Medicine,Medicine and Public Health,2,1,2,1,mongoose
+Brown University,Medicine,General Care,3,1,1,1,bison
+Columbia University Libraries,Medicine,Pharmacology,1,1,4,1,mist
+Columbia University Libraries,Medicine,Specialty Care,3,1,3,1,bluebell
+Columbia University Libraries,Medicine,General Care,6,2,1,2,blue
+Columbia University Libraries,Medicine,Medicine and Public Health,6,2,1,2,blue
+Cornell University,Medicine,General Care,3,1,2,1,brown sugar
+Cornell University,Medicine,Medicine and Public Health,5,2,1,2,bark
+Duke University,Medicine,General Care,3,1,2,1,delta
+Duke University,Medicine,Medicine and Public Health,6,2,1,2,celestial
+Harvard University,Medicine,Medicine and Public Health,1,1,3,1,pimento
+Harvard University,Medicine,Pharmacology,1,1,3,1,pimento
+Harvard University,Medicine,Specialty Care,1,1,3,1,pimento
+Harvard University,Medicine,General Care,2,1,1,1,asphalt heather
+Johns Hopkins University,Medicine,General Care,1,1,2,1,seafaring
+Johns Hopkins University,Medicine,Medicine and Public Health,80,4,1,4,marine heather
+Massachusetts Institute of Technology,Medicine,Pharmacology,1,1,4,1,silver
+Massachusetts Institute of Technology,Medicine,Specialty Care,2,1,3,1,tomato
+Massachusetts Institute of Technology,Medicine,Medicine and Public Health,5,2,2,2,garnet heather
+Massachusetts Institute of Technology,Medicine,General Care,6,2,1,2,black
+Princeton University,Medicine,General Care,1,1,3,1,sweet potato
+Princeton University,Medicine,Specialty Care,2,1,2,1,orange
+Princeton University,Medicine,Medicine and Public Health,8,2,1,2,asphalt heather
+Stanford University,Medicine,Specialty Care,1,1,3,1,mauve
+Stanford University,Medicine,General Care,2,1,2,1,serrano
+Stanford University,Medicine,Medicine and Public Health,6,2,1,2,lingonberry heather
+University of Chicago,Medicine,Pharmacology,1,1,4,1,canary
+University of Chicago,Medicine,Specialty Care,2,1,3,1,toffee
+University of Chicago,Medicine,General Care,6,2,2,2,autumn heather
+University of Chicago,Medicine,Medicine and Public Health,8,2,1,2,hazelnut
+University of Pennsylvania,Medicine,Pharmacology,2,1,4,1,sky
+University of Pennsylvania,Medicine,Specialty Care,3,1,3,1,lipstick
+University of Pennsylvania,Medicine,General Care,5,2,2,2,mulberry
+University of Pennsylvania,Medicine,Medicine and Public Health,8,2,1,2,jay
+Yale University,Medicine,Medicine and Public Health,2,1,2,1,marble heather
+Yale University,Medicine,Specialty Care,2,1,2,1,marble heather
+Yale University,Medicine,General Care,7,2,1,2,navy
+Life Sciences,STEM,Brown University,7,1,4,1,alfalfa
+Physical Sciences,STEM,Brown University,9,2,3,2,macaw
+Applied Sciences and Engineering,STEM,Brown University,12,2,2,2,macaw
+General Science and Mathematics,STEM,Brown University,15,2,1,2,shire heather
+Life Sciences,STEM,Columbia University Libraries,17,2,4,2,alfalfa
+Applied Sciences and Engineering,STEM,Columbia University Libraries,43,3,3,3,macaw
+Physical Sciences,STEM,Columbia University Libraries,48,3,2,3,macaw
+General Science and Mathematics,STEM,Columbia University Libraries,58,4,1,4,shire heather
+Life Sciences,STEM,Cornell University,20,3,4,3,alfalfa
+General Science and Mathematics,STEM,Cornell University,22,3,3,3,macaw
+Physical Sciences,STEM,Cornell University,29,3,2,3,macaw
+Applied Sciences and Engineering,STEM,Cornell University,40,3,1,3,shire heather
+Life Sciences,STEM,Duke University,1,1,4,1,alfalfa
+General Science and Mathematics,STEM,Duke University,8,1,2,1,macaw
+Physical Sciences,STEM,Duke University,8,1,2,1,macaw
+Applied Sciences and Engineering,STEM,Duke University,10,2,1,2,shire heather
+Physical Sciences,STEM,Harvard University,28,3,4,3,alfalfa
+Life Sciences,STEM,Harvard University,33,3,3,3,macaw
+General Science and Mathematics,STEM,Harvard University,69,4,2,4,macaw
+Applied Sciences and Engineering,STEM,Harvard University,80,4,1,4,shire heather
+Life Sciences,STEM,Johns Hopkins University,26,3,4,3,alfalfa
+Physical Sciences,STEM,Johns Hopkins University,34,3,3,3,macaw
+General Science and Mathematics,STEM,Johns Hopkins University,35,3,2,3,macaw
+Applied Sciences and Engineering,STEM,Johns Hopkins University,52,4,1,4,shire heather
+Life Sciences,STEM,Massachusetts Institute of Technology,5,1,4,1,alfalfa
+Physical Sciences,STEM,Massachusetts Institute of Technology,6,1,3,1,macaw
+General Science and Mathematics,STEM,Massachusetts Institute of Technology,17,2,2,2,macaw
+Applied Sciences and Engineering,STEM,Massachusetts Institute of Technology,25,3,1,3,shire heather
+Life Sciences,STEM,Princeton University,15,2,4,2,alfalfa
+Physical Sciences,STEM,Princeton University,23,3,3,3,macaw
+General Science and Mathematics,STEM,Princeton University,33,3,2,3,macaw
+Applied Sciences and Engineering,STEM,Princeton University,35,3,1,3,shire heather
+Life Sciences,STEM,Stanford University,5,1,4,1,alfalfa
+Applied Sciences and Engineering,STEM,Stanford University,13,2,3,2,macaw
+Physical Sciences,STEM,Stanford University,17,2,2,2,macaw
+General Science and Mathematics,STEM,Stanford University,18,2,1,2,shire heather
+Life Sciences,STEM,University of Chicago,7,1,3,1,macaw
+Physical Sciences,STEM,University of Chicago,7,1,3,1,macaw
+General Science and Mathematics,STEM,University of Chicago,14,2,2,2,macaw
+Applied Sciences and Engineering,STEM,University of Chicago,15,2,1,2,shire heather
+Life Sciences,STEM,University of Pennsylvania,14,2,4,2,alfalfa
+Physical Sciences,STEM,University of Pennsylvania,17,2,3,2,macaw
+Applied Sciences and Engineering,STEM,University of Pennsylvania,23,3,2,3,macaw
+General Science and Mathematics,STEM,University of Pennsylvania,40,3,1,3,shire heather
+Physical Sciences,STEM,Yale University,24,3,4,3,alfalfa
+Life Sciences,STEM,Yale University,26,3,3,3,macaw
+General Science and Mathematics,STEM,Yale University,30,3,2,3,macaw
+Applied Sciences and Engineering,STEM,Yale University,50,3,1,3,shire heather
+Brown University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4,2,suede
+Brown University,Humanities,"Philosophy, Psychology, Religion",57,4,3,4,doe
+Brown University,Humanities,World History,80,4,2,4,mongoose
+Brown University,Humanities,Language and Literature,81,4,1,4,bison
+Columbia University Libraries,Humanities,"Archaeology, Genealogy, and Biography",5,2,4,2,mist
+Columbia University Libraries,Humanities,"Philosophy, Psychology, Religion",88,4,3,4,bluebell
+Columbia University Libraries,Humanities,World History,119,4,2,4,opal heather
+Columbia University Libraries,Humanities,Language and Literature,164,4,1,4,blue
+Cornell University,Humanities,"Archaeology, Genealogy, and Biography",4,2,4,2,white
+Cornell University,Humanities,"Philosophy, Psychology, Religion",62,4,3,4,raspberry heather
+Cornell University,Humanities,Language and Literature,101,4,2,4,brown sugar
+Cornell University,Humanities,World History,102,4,1,4,bark
+Duke University,Humanities,"Philosophy, Psychology, Religion",37,4,3,4,ciel
+Duke University,Humanities,World History,80,4,2,4,delta
+Duke University,Humanities,Language and Literature,114,4,1,4,celestial
+Harvard University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4,3,gosling
+Harvard University,Humanities,World History,68,4,3,4,pimento
+Harvard University,Humanities,"Philosophy, Psychology, Religion",76,4,2,4,ash
+Harvard University,Humanities,Language and Literature,141,4,1,4,asphalt heather
+Johns Hopkins University,Humanities,"Archaeology, Genealogy, and Biography",1,1,4,1,sage brush
+Johns Hopkins University,Humanities,"Philosophy, Psychology, Religion",31,4,3,4,pool
+Johns Hopkins University,Humanities,World History,76,4,2,4,seafaring
+Johns Hopkins University,Humanities,Language and Literature,82,4,1,4,marine heather
+Massachusetts Institute of Technology,Humanities,"Archaeology, Genealogy, and Biography",7,2,4,2,silver
+Massachusetts Institute of Technology,Humanities,"Philosophy, Psychology, Religion",21,3,3,3,tomato
+Massachusetts Institute of Technology,Humanities,World History,30,4,2,4,garnet heather
+Massachusetts Institute of Technology,Humanities,Language and Literature,85,4,1,4,black
+Princeton University,Humanities,"Archaeology, Genealogy, and Biography",7,2,4,2,turmeric
+Princeton University,Humanities,"Philosophy, Psychology, Religion",69,4,3,4,sweet potato
+Princeton University,Humanities,World History,107,4,2,4,orange
+Princeton University,Humanities,Language and Literature,121,4,1,4,asphalt heather
+Stanford University,Humanities,"Archaeology, Genealogy, and Biography",2,1,4,1,peony
+Stanford University,Humanities,World History,47,4,3,4,mauve
+Stanford University,Humanities,"Philosophy, Psychology, Religion",50,4,2,4,serrano
+Stanford University,Humanities,Language and Literature,77,4,1,4,lingonberry heather
+University of Chicago,Humanities,"Archaeology, Genealogy, and Biography",7,2,4,2,canary
+University of Chicago,Humanities,"Philosophy, Psychology, Religion",63,4,3,4,toffee
+University of Chicago,Humanities,Language and Literature,111,4,2,4,autumn heather
+University of Chicago,Humanities,World History,114,4,1,4,hazelnut
+University of Pennsylvania,Humanities,"Archaeology, Genealogy, and Biography",8,2,4,2,sky
+University of Pennsylvania,Humanities,"Philosophy, Psychology, Religion",60,4,3,4,lipstick
+University of Pennsylvania,Humanities,World History,69,4,2,4,mulberry
+University of Pennsylvania,Humanities,Language and Literature,130,4,1,4,jay
+Yale University,Humanities,"Archaeology, Genealogy, and Biography",10,3,4,3,cream
+Yale University,Humanities,"Philosophy, Psychology, Religion",93,4,3,4,sinnley heather
+Yale University,Humanities,World History,105,4,2,4,marble heather
+Yale University,Humanities,Language and Literature,127,4,1,4,navy
+Applied Arts,Music and Arts,Brown University,2,1,4,1,celadon heather
+Performing Arts,Music and Arts,Brown University,4,1,3,1,spearmint
+Architecture,Music and Arts,Brown University,6,1,2,1,verdant heather
+Fine Arts,Music and Arts,Brown University,48,3,1,3,douglas fir
+Applied Arts,Music and Arts,Columbia University Libraries,10,2,4,2,celadon heather
+Performing Arts,Music and Arts,Columbia University Libraries,38,3,3,3,spearmint
+Architecture,Music and Arts,Columbia University Libraries,51,3,2,3,verdant heather
+Fine Arts,Music and Arts,Columbia University Libraries,118,4,1,4,douglas fir
+Applied Arts,Music and Arts,Cornell University,2,1,4,1,celadon heather
+Performing Arts,Music and Arts,Cornell University,22,3,3,3,spearmint
+Architecture,Music and Arts,Cornell University,29,3,2,3,verdant heather
+Fine Arts,Music and Arts,Cornell University,65,4,1,4,douglas fir
+Applied Arts,Music and Arts,Duke University,2,1,4,1,celadon heather
+Architecture,Music and Arts,Duke University,4,1,3,1,spearmint
+Performing Arts,Music and Arts,Duke University,9,2,2,2,verdant heather
+Fine Arts,Music and Arts,Duke University,16,2,1,2,douglas fir
+Applied Arts,Music and Arts,Harvard University,13,2,4,2,celadon heather
+Performing Arts,Music and Arts,Harvard University,29,3,3,3,spearmint
+Architecture,Music and Arts,Harvard University,89,4,2,4,verdant heather
+Fine Arts,Music and Arts,Harvard University,159,4,1,4,douglas fir
+Applied Arts,Music and Arts,Johns Hopkins University,5,1,4,1,celadon heather
+Architecture,Music and Arts,Johns Hopkins University,10,2,3,2,spearmint
+Performing Arts,Music and Arts,Johns Hopkins University,33,3,2,3,verdant heather
+Fine Arts,Music and Arts,Johns Hopkins University,122,4,1,4,douglas fir
+Performing Arts,Music and Arts,Massachusetts Institute of Technology,3,1,3,1,spearmint
+Architecture,Music and Arts,Massachusetts Institute of Technology,11,2,2,2,verdant heather
+Fine Arts,Music and Arts,Massachusetts Institute of Technology,49,3,1,3,douglas fir
+Applied Arts,Music and Arts,Princeton University,7,1,4,1,celadon heather
+Performing Arts,Music and Arts,Princeton University,10,2,3,2,spearmint
+Architecture,Music and Arts,Princeton University,21,3,2,3,verdant heather
+Fine Arts,Music and Arts,Princeton University,163,4,1,4,douglas fir
+Architecture,Music and Arts,Stanford University,2,1,4,1,celadon heather
+Applied Arts,Music and Arts,Stanford University,3,1,3,1,spearmint
+Performing Arts,Music and Arts,Stanford University,7,1,2,1,verdant heather
+Fine Arts,Music and Arts,Stanford University,29,3,1,3,douglas fir
+Applied Arts,Music and Arts,University of Chicago,3,1,4,1,celadon heather
+Architecture,Music and Arts,University of Chicago,6,1,3,1,spearmint
+Performing Arts,Music and Arts,University of Chicago,9,2,2,2,verdant heather
+Fine Arts,Music and Arts,University of Chicago,53,4,1,4,douglas fir
+Performing Arts,Music and Arts,University of Pennsylvania,3,1,4,1,celadon heather
+Applied Arts,Music and Arts,University of Pennsylvania,5,1,3,1,spearmint
+Architecture,Music and Arts,University of Pennsylvania,11,2,2,2,verdant heather
+Fine Arts,Music and Arts,University of Pennsylvania,57,4,1,4,douglas fir
+Applied Arts,Music and Arts,Yale University,12,2,4,2,celadon heather
+Performing Arts,Music and Arts,Yale University,25,3,3,3,spearmint
+Architecture,Music and Arts,Yale University,54,4,2,4,verdant heather
+Fine Arts,Music and Arts,Yale University,172,4,1,4,douglas fir
+"Archaeology, Genealogy, and Biography",Humanities,Brown University,5,1,4,1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Brown University,54,4,3,4,tarragon
+World History,Humanities,Brown University,69,4,2,4,clover
+Language and Literature,Humanities,Brown University,142,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Columbia University Libraries,9,2,4,2,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Columbia University Libraries,144,4,3,4,tarragon
+World History,Humanities,Columbia University Libraries,194,4,2,4,clover
+Language and Literature,Humanities,Columbia University Libraries,326,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Cornell University,9,2,4,2,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Cornell University,99,4,3,4,tarragon
+World History,Humanities,Cornell University,145,4,2,4,clover
+Language and Literature,Humanities,Cornell University,283,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Duke University,3,1,4,1,limeade heather
+World History,Humanities,Duke University,34,3,3,3,tarragon
+"Philosophy, Psychology, Religion",Humanities,Duke University,54,4,2,4,clover
+Language and Literature,Humanities,Duke University,74,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Harvard University,25,3,4,3,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Harvard University,229,4,2,4,clover
+World History,Humanities,Harvard University,229,4,2,4,clover
+Language and Literature,Humanities,Harvard University,337,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Johns Hopkins University,5,1,4,1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Johns Hopkins University,118,4,3,4,tarragon
+World History,Humanities,Johns Hopkins University,177,4,2,4,clover
+Language and Literature,Humanities,Johns Hopkins University,311,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Massachusetts Institute of Technology,1,1,4,1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Massachusetts Institute of Technology,12,2,3,2,tarragon
+World History,Humanities,Massachusetts Institute of Technology,36,3,2,3,clover
+Language and Literature,Humanities,Massachusetts Institute of Technology,66,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Princeton University,9,2,4,2,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Princeton University,134,4,3,4,tarragon
+World History,Humanities,Princeton University,177,4,2,4,clover
+Language and Literature,Humanities,Princeton University,251,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Stanford University,5,1,4,1,limeade heather
+World History,Humanities,Stanford University,38,3,3,3,tarragon
+"Philosophy, Psychology, Religion",Humanities,Stanford University,40,3,2,3,clover
+Language and Literature,Humanities,Stanford University,112,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,University of Chicago,3,1,4,1,limeade heather
+World History,Humanities,University of Chicago,78,4,3,4,tarragon
+"Philosophy, Psychology, Religion",Humanities,University of Chicago,91,4,2,4,clover
+Language and Literature,Humanities,University of Chicago,114,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,University of Pennsylvania,8,1,4,1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,University of Pennsylvania,56,4,3,4,tarragon
+World History,Humanities,University of Pennsylvania,88,4,2,4,clover
+Language and Literature,Humanities,University of Pennsylvania,168,4,1,4,ivy
+"Archaeology, Genealogy, and Biography",Humanities,Yale University,11,2,4,2,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Yale University,183,4,3,4,tarragon
+World History,Humanities,Yale University,250,4,2,4,clover
+Language and Literature,Humanities,Yale University,375,4,1,4,ivy
+Pharmacology,Medicine,Brown University,1,1,4,1,green tea heather
+General Care,Medicine,Brown University,3,1,2,1,grass
+Specialty Care,Medicine,Brown University,3,1,2,1,grass
+Medicine and Public Health,Medicine,Brown University,6,1,1,1,aurora heather
+Specialty Care,Medicine,Columbia University Libraries,3,1,3,1,edamame
+Medicine and Public Health,Medicine,Columbia University Libraries,10,2,2,2,grass
+General Care,Medicine,Columbia University Libraries,14,2,1,2,aurora heather
+General Care,Medicine,Cornell University,9,2,2,2,grass
+Medicine and Public Health,Medicine,Cornell University,10,2,1,2,aurora heather
+Medicine and Public Health,Medicine,Duke University,1,1,2,1,grass
+General Care,Medicine,Duke University,3,1,1,1,aurora heather
+Specialty Care,Medicine,Harvard University,7,1,3,1,edamame
+Medicine and Public Health,Medicine,Harvard University,18,2,2,2,grass
+General Care,Medicine,Harvard University,21,3,1,3,aurora heather
+Pharmacology,Medicine,Johns Hopkins University,2,1,4,1,green tea heather
+General Care,Medicine,Johns Hopkins University,13,2,2,2,grass
+Specialty Care,Medicine,Johns Hopkins University,13,2,2,2,grass
+Medicine and Public Health,Medicine,Johns Hopkins University,14,2,1,2,aurora heather
+Specialty Care,Medicine,Massachusetts Institute of Technology,1,1,3,1,edamame
+General Care,Medicine,Massachusetts Institute of Technology,2,1,2,1,grass
+Medicine and Public Health,Medicine,Massachusetts Institute of Technology,3,1,1,1,aurora heather
+Pharmacology,Medicine,Princeton University,1,1,4,1,green tea heather
+Specialty Care,Medicine,Princeton University,3,1,3,1,edamame
+Medicine and Public Health,Medicine,Princeton University,4,1,2,1,grass
+General Care,Medicine,Princeton University,9,2,1,2,aurora heather
+General Care,Medicine,Stanford University,3,1,1,1,aurora heather
+Medicine and Public Health,Medicine,Stanford University,3,1,1,1,aurora heather
+Medicine and Public Health,Medicine,University of Chicago,1,1,3,1,edamame
+Specialty Care,Medicine,University of Chicago,3,1,2,1,grass
+General Care,Medicine,University of Chicago,7,1,1,1,aurora heather
+Specialty Care,Medicine,University of Pennsylvania,1,1,4,1,green tea heather
+Pharmacology,Medicine,University of Pennsylvania,3,1,3,1,edamame
+General Care,Medicine,University of Pennsylvania,9,2,2,2,grass
+Medicine and Public Health,Medicine,University of Pennsylvania,16,2,1,2,aurora heather
+Pharmacology,Medicine,Yale University,2,1,4,1,green tea heather
+Specialty Care,Medicine,Yale University,5,1,3,1,edamame
+Medicine and Public Health,Medicine,Yale University,12,2,2,2,grass
+General Care,Medicine,Yale University,16,2,1,2,aurora heather
+Information Science and Education,Social Sciences,Brown University,4,1,4,1,safflower
+"Geography, Anthropology, Recreation",Social Sciences,Brown University,15,2,3,2,lichen
+Government and Law,Social Sciences,Brown University,19,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,Brown University,50,3,1,3,forest heather
+Information Science and Education,Social Sciences,Columbia University Libraries,18,2,4,2,safflower
+Government and Law,Social Sciences,Columbia University Libraries,43,3,3,3,lichen
+"Geography, Anthropology, Recreation",Social Sciences,Columbia University Libraries,49,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,Columbia University Libraries,158,4,1,4,forest heather
+Information Science and Education,Social Sciences,Cornell University,13,2,4,2,safflower
+Government and Law,Social Sciences,Cornell University,36,3,3,3,lichen
+"Geography, Anthropology, Recreation",Social Sciences,Cornell University,44,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,Cornell University,123,4,1,4,forest heather
+Government and Law,Social Sciences,Duke University,3,1,4,1,safflower
+Information Science and Education,Social Sciences,Duke University,7,1,3,1,lichen
+"Geography, Anthropology, Recreation",Social Sciences,Duke University,13,2,2,2,caper
+"Business, Economics and Sociology",Social Sciences,Duke University,26,3,1,3,forest heather
+Information Science and Education,Social Sciences,Harvard University,32,3,4,3,safflower
+"Geography, Anthropology, Recreation",Social Sciences,Harvard University,67,4,3,4,lichen
+Government and Law,Social Sciences,Harvard University,74,4,2,4,caper
+"Business, Economics and Sociology",Social Sciences,Harvard University,188,4,1,4,forest heather
+Information Science and Education,Social Sciences,Johns Hopkins University,22,3,4,3,safflower
+"Geography, Anthropology, Recreation",Social Sciences,Johns Hopkins University,42,3,3,3,lichen
+Government and Law,Social Sciences,Johns Hopkins University,51,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,Johns Hopkins University,155,4,1,4,forest heather
+Information Science and Education,Social Sciences,Massachusetts Institute of Technology,7,1,4,1,safflower
+Government and Law,Social Sciences,Massachusetts Institute of Technology,12,2,3,2,lichen
+"Geography, Anthropology, Recreation",Social Sciences,Massachusetts Institute of Technology,13,2,2,2,caper
+"Business, Economics and Sociology",Social Sciences,Massachusetts Institute of Technology,17,2,1,2,forest heather
+Information Science and Education,Social Sciences,Princeton University,22,3,4,3,safflower
+"Geography, Anthropology, Recreation",Social Sciences,Princeton University,37,3,3,3,lichen
+Government and Law,Social Sciences,Princeton University,38,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,Princeton University,128,4,1,4,forest heather
+"Geography, Anthropology, Recreation",Social Sciences,Stanford University,10,2,3,2,lichen
+Information Science and Education,Social Sciences,Stanford University,10,2,3,2,lichen
+Government and Law,Social Sciences,Stanford University,16,2,2,2,caper
+"Business, Economics and Sociology",Social Sciences,Stanford University,56,4,1,4,forest heather
+Information Science and Education,Social Sciences,University of Chicago,12,2,4,2,safflower
+"Geography, Anthropology, Recreation",Social Sciences,University of Chicago,18,2,3,2,lichen
+Government and Law,Social Sciences,University of Chicago,20,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,University of Chicago,61,4,1,4,forest heather
+Information Science and Education,Social Sciences,University of Pennsylvania,14,2,4,2,safflower
+"Geography, Anthropology, Recreation",Social Sciences,University of Pennsylvania,20,3,3,3,lichen
+Government and Law,Social Sciences,University of Pennsylvania,23,3,2,3,caper
+"Business, Economics and Sociology",Social Sciences,University of Pennsylvania,84,4,1,4,forest heather
+Information Science and Education,Social Sciences,Yale University,31,3,4,3,safflower
+"Geography, Anthropology, Recreation",Social Sciences,Yale University,44,3,3,3,lichen
+Government and Law,Social Sciences,Yale University,66,4,2,4,caper
+"Business, Economics and Sociology",Social Sciences,Yale University,150,4,1,4,forest heather
+Brown University,STEM,Applied Sciences and Engineering,5,2,3,2,doe
+Brown University,STEM,Life Sciences,5,2,3,2,doe
+Brown University,STEM,Physical Sciences,8,2,2,2,mongoose
+Brown University,STEM,General Science and Mathematics,14,3,1,3,bison
+Columbia University Libraries,STEM,Life Sciences,3,1,4,1,mist
+Columbia University Libraries,STEM,General Science and Mathematics,5,2,3,2,bluebell
+Columbia University Libraries,STEM,Physical Sciences,7,2,2,2,opal heather
+Columbia University Libraries,STEM,Applied Sciences and Engineering,8,2,1,2,blue
+Cornell University,STEM,Physical Sciences,3,1,4,1,white
+Cornell University,STEM,General Science and Mathematics,8,2,3,2,raspberry heather
+Cornell University,STEM,Life Sciences,12,3,2,3,brown sugar
+Cornell University,STEM,Applied Sciences and Engineering,25,3,1,3,bark
+Duke University,STEM,Physical Sciences,2,1,4,1,chicory
+Duke University,STEM,General Science and Mathematics,6,2,3,2,ciel
+Duke University,STEM,Life Sciences,10,3,2,3,delta
+Duke University,STEM,Applied Sciences and Engineering,16,3,1,3,celestial
+Harvard University,STEM,General Science and Mathematics,4,2,3,2,pimento
+Harvard University,STEM,Applied Sciences and Engineering,6,2,2,2,ash
+Harvard University,STEM,Life Sciences,8,2,1,2,asphalt heather
+Johns Hopkins University,STEM,Physical Sciences,3,1,4,1,sage brush
+Johns Hopkins University,STEM,General Science and Mathematics,6,2,2,2,seafaring
+Johns Hopkins University,STEM,Life Sciences,6,2,2,2,seafaring
+Johns Hopkins University,STEM,Applied Sciences and Engineering,8,2,1,2,marine heather
+Massachusetts Institute of Technology,STEM,Physical Sciences,9,3,4,3,silver
+Massachusetts Institute of Technology,STEM,Life Sciences,13,3,3,3,tomato
+Massachusetts Institute of Technology,STEM,General Science and Mathematics,20,3,2,3,garnet heather
+Massachusetts Institute of Technology,STEM,Applied Sciences and Engineering,22,3,1,3,black
+Princeton University,STEM,Life Sciences,2,1,3,1,sweet potato
+Princeton University,STEM,Physical Sciences,2,1,3,1,sweet potato
+Princeton University,STEM,General Science and Mathematics,4,2,2,2,orange
+Princeton University,STEM,Applied Sciences and Engineering,13,3,1,3,asphalt heather
+Stanford University,STEM,General Science and Mathematics,2,1,4,1,peony
+Stanford University,STEM,Physical Sciences,3,1,3,1,mauve
+Stanford University,STEM,Life Sciences,8,2,2,2,serrano
+Stanford University,STEM,Applied Sciences and Engineering,11,3,1,3,lingonberry heather
+University of Chicago,STEM,Physical Sciences,1,1,4,1,canary
+University of Chicago,STEM,Life Sciences,3,1,3,1,toffee
+University of Chicago,STEM,Applied Sciences and Engineering,8,2,1,2,hazelnut
+University of Chicago,STEM,General Science and Mathematics,8,2,1,2,hazelnut
+University of Pennsylvania,STEM,Life Sciences,3,1,4,1,sky
+University of Pennsylvania,STEM,General Science and Mathematics,5,2,3,2,lipstick
+University of Pennsylvania,STEM,Physical Sciences,8,2,2,2,mulberry
+University of Pennsylvania,STEM,Applied Sciences and Engineering,22,3,1,3,jay
+Yale University,STEM,Physical Sciences,1,1,4,1,cream
+Yale University,STEM,General Science and Mathematics,9,3,3,3,sinnley heather
+Yale University,STEM,Life Sciences,10,3,2,3,marble heather
+Yale University,STEM,Applied Sciences and Engineering,13,3,1,3,navy
+Brown University,Music and Arts,Applied Arts,2,1,4,1,suede
+Brown University,Music and Arts,Architecture,3,1,3,1,doe
+Brown University,Music and Arts,Performing Arts,6,2,2,2,mongoose
+Brown University,Music and Arts,Fine Arts,14,3,1,3,bison
+Columbia University Libraries,Music and Arts,Applied Arts,2,1,3,1,bluebell
+Columbia University Libraries,Music and Arts,Architecture,2,1,3,1,bluebell
+Columbia University Libraries,Music and Arts,Fine Arts,7,2,2,2,opal heather
+Columbia University Libraries,Music and Arts,Performing Arts,8,2,1,2,blue
+Cornell University,Music and Arts,Applied Arts,2,1,4,1,white
+Cornell University,Music and Arts,Performing Arts,3,1,3,1,raspberry heather
+Cornell University,Music and Arts,Architecture,4,2,2,2,brown sugar
+Cornell University,Music and Arts,Fine Arts,23,3,1,3,bark
+Duke University,Music and Arts,Architecture,1,1,3,1,ciel
+Duke University,Music and Arts,Performing Arts,5,2,2,2,delta
+Duke University,Music and Arts,Fine Arts,22,3,1,3,celestial
+Harvard University,Music and Arts,Applied Arts,3,1,4,1,gosling
+Harvard University,Music and Arts,Architecture,4,2,3,2,pimento
+Harvard University,Music and Arts,Performing Arts,8,2,2,2,ash
+Harvard University,Music and Arts,Fine Arts,14,3,1,3,asphalt heather
+Johns Hopkins University,Music and Arts,Applied Arts,2,1,4,1,sage brush
+Johns Hopkins University,Music and Arts,Performing Arts,3,1,3,1,pool
+Johns Hopkins University,Music and Arts,Architecture,6,2,2,2,seafaring
+Johns Hopkins University,Music and Arts,Fine Arts,27,3,1,3,marine heather
+Massachusetts Institute of Technology,Music and Arts,Architecture,4,2,3,2,tomato
+Massachusetts Institute of Technology,Music and Arts,Applied Arts,5,2,2,2,garnet heather
+Massachusetts Institute of Technology,Music and Arts,Fine Arts,21,3,1,3,black
+Princeton University,Music and Arts,Architecture,1,1,4,1,turmeric
+Princeton University,Music and Arts,Applied Arts,2,1,3,1,sweet potato
+Princeton University,Music and Arts,Fine Arts,3,1,2,1,orange
+Princeton University,Music and Arts,Performing Arts,5,2,1,2,asphalt heather
+Stanford University,Music and Arts,Architecture,1,1,4,1,peony
+Stanford University,Music and Arts,Applied Arts,3,1,3,1,mauve
+Stanford University,Music and Arts,Performing Arts,9,3,2,3,serrano
+Stanford University,Music and Arts,Fine Arts,19,3,1,3,lingonberry heather
+University of Chicago,Music and Arts,Applied Arts,1,1,4,1,canary
+University of Chicago,Music and Arts,Architecture,3,1,2,1,autumn heather
+University of Chicago,Music and Arts,Performing Arts,3,1,2,1,autumn heather
+University of Chicago,Music and Arts,Fine Arts,22,3,1,3,hazelnut
+University of Pennsylvania,Music and Arts,Architecture,1,1,2,1,mulberry
+University of Pennsylvania,Music and Arts,Fine Arts,1,1,2,1,mulberry
+University of Pennsylvania,Music and Arts,Performing Arts,8,2,1,2,jay
+Yale University,Music and Arts,Applied Arts,2,1,4,1,cream
+Yale University,Music and Arts,Architecture,5,2,3,2,sinnley heather
+Yale University,Music and Arts,Performing Arts,13,3,2,3,marble heather
+Yale University,Music and Arts,Fine Arts,37,4,1,4,navy

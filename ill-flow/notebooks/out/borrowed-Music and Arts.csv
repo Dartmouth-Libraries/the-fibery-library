@@ -1,46 +1,46 @@
-From,Area,To,N,Quartile,Rank
-Brown University,Music and Arts,Performing Arts,6,2,2
-Brown University,Music and Arts,Architecture,3,1,3
-Brown University,Music and Arts,Applied Arts,2,1,4
-Brown University,Music and Arts,Fine Arts,14,3,1
-Columbia University Libraries,Music and Arts,Performing Arts,8,2,1
-Columbia University Libraries,Music and Arts,Fine Arts,7,2,2
-Columbia University Libraries,Music and Arts,Applied Arts,2,1,3
-Columbia University Libraries,Music and Arts,Architecture,2,1,3
-Cornell University,Music and Arts,Performing Arts,3,1,3
-Cornell University,Music and Arts,Architecture,4,2,2
-Cornell University,Music and Arts,Applied Arts,2,1,4
-Cornell University,Music and Arts,Fine Arts,23,3,1
-Duke University,Music and Arts,Fine Arts,22,3,1
-Duke University,Music and Arts,Architecture,1,1,3
-Duke University,Music and Arts,Performing Arts,5,2,2
-Harvard University,Music and Arts,Performing Arts,8,2,2
-Harvard University,Music and Arts,Architecture,4,2,3
-Harvard University,Music and Arts,Fine Arts,14,3,1
-Harvard University,Music and Arts,Applied Arts,3,1,4
-Johns Hopkins University,Music and Arts,Performing Arts,3,1,3
-Johns Hopkins University,Music and Arts,Architecture,6,2,2
-Johns Hopkins University,Music and Arts,Applied Arts,2,1,4
-Johns Hopkins University,Music and Arts,Fine Arts,27,3,1
-Massachusetts Institute of Technology,Music and Arts,Fine Arts,21,3,1
-Massachusetts Institute of Technology,Music and Arts,Applied Arts,5,2,2
-Massachusetts Institute of Technology,Music and Arts,Architecture,4,2,3
-Princeton University,Music and Arts,Performing Arts,5,2,1
-Princeton University,Music and Arts,Fine Arts,3,1,2
-Princeton University,Music and Arts,Architecture,1,1,4
-Princeton University,Music and Arts,Applied Arts,2,1,3
-Stanford University,Music and Arts,Performing Arts,9,3,2
-Stanford University,Music and Arts,Architecture,1,1,4
-Stanford University,Music and Arts,Applied Arts,3,1,3
-Stanford University,Music and Arts,Fine Arts,19,3,1
-University of Chicago,Music and Arts,Performing Arts,3,1,2
-University of Chicago,Music and Arts,Fine Arts,22,3,1
-University of Chicago,Music and Arts,Applied Arts,1,1,4
-University of Chicago,Music and Arts,Architecture,3,1,2
-University of Pennsylvania,Music and Arts,Performing Arts,8,2,1
-University of Pennsylvania,Music and Arts,Fine Arts,1,1,2
-University of Pennsylvania,Music and Arts,Architecture,1,1,2
-Yale University,Music and Arts,Performing Arts,13,3,2
-Yale University,Music and Arts,Fine Arts,37,4,1
-Yale University,Music and Arts,Applied Arts,2,1,4
-Yale University,Music and Arts,Architecture,5,2,3
+From,Area,To,N,Quartile,Rank,Number of i-cords,Color
+Brown University,Music and Arts,Applied Arts,2,1,4,1,suede
+Brown University,Music and Arts,Architecture,3,1,3,1,doe
+Brown University,Music and Arts,Performing Arts,6,2,2,2,mongoose
+Brown University,Music and Arts,Fine Arts,14,3,1,3,bison
+Columbia University Libraries,Music and Arts,Applied Arts,2,1,3,1,bluebell
+Columbia University Libraries,Music and Arts,Architecture,2,1,3,1,bluebell
+Columbia University Libraries,Music and Arts,Fine Arts,7,2,2,2,opal heather
+Columbia University Libraries,Music and Arts,Performing Arts,8,2,1,2,blue
+Cornell University,Music and Arts,Applied Arts,2,1,4,1,white
+Cornell University,Music and Arts,Performing Arts,3,1,3,1,raspberry heather
+Cornell University,Music and Arts,Architecture,4,2,2,2,brown sugar
+Cornell University,Music and Arts,Fine Arts,23,3,1,3,bark
+Duke University,Music and Arts,Architecture,1,1,3,1,ciel
+Duke University,Music and Arts,Performing Arts,5,2,2,2,delta
+Duke University,Music and Arts,Fine Arts,22,3,1,3,celestial
+Harvard University,Music and Arts,Applied Arts,3,1,4,1,gosling
+Harvard University,Music and Arts,Architecture,4,2,3,2,pimento
+Harvard University,Music and Arts,Performing Arts,8,2,2,2,ash
+Harvard University,Music and Arts,Fine Arts,14,3,1,3,asphalt heather
+Johns Hopkins University,Music and Arts,Applied Arts,2,1,4,1,sage brush
+Johns Hopkins University,Music and Arts,Performing Arts,3,1,3,1,pool
+Johns Hopkins University,Music and Arts,Architecture,6,2,2,2,seafaring
+Johns Hopkins University,Music and Arts,Fine Arts,27,3,1,3,marine heather
+Massachusetts Institute of Technology,Music and Arts,Architecture,4,2,3,2,tomato
+Massachusetts Institute of Technology,Music and Arts,Applied Arts,5,2,2,2,garnet heather
+Massachusetts Institute of Technology,Music and Arts,Fine Arts,21,3,1,3,black
+Princeton University,Music and Arts,Architecture,1,1,4,1,turmeric
+Princeton University,Music and Arts,Applied Arts,2,1,3,1,sweet potato
+Princeton University,Music and Arts,Fine Arts,3,1,2,1,orange
+Princeton University,Music and Arts,Performing Arts,5,2,1,2,asphalt heather
+Stanford University,Music and Arts,Architecture,1,1,4,1,peony
+Stanford University,Music and Arts,Applied Arts,3,1,3,1,mauve
+Stanford University,Music and Arts,Performing Arts,9,3,2,3,serrano
+Stanford University,Music and Arts,Fine Arts,19,3,1,3,lingonberry heather
+University of Chicago,Music and Arts,Applied Arts,1,1,4,1,canary
+University of Chicago,Music and Arts,Architecture,3,1,2,1,autumn heather
+University of Chicago,Music and Arts,Performing Arts,3,1,2,1,autumn heather
+University of Chicago,Music and Arts,Fine Arts,22,3,1,3,hazelnut
+University of Pennsylvania,Music and Arts,Architecture,1,1,2,1,mulberry
+University of Pennsylvania,Music and Arts,Fine Arts,1,1,2,1,mulberry
+University of Pennsylvania,Music and Arts,Performing Arts,8,2,1,2,jay
+Yale University,Music and Arts,Applied Arts,2,1,4,1,cream
+Yale University,Music and Arts,Architecture,5,2,3,2,sinnley heather
+Yale University,Music and Arts,Performing Arts,13,3,2,3,marble heather
+Yale University,Music and Arts,Fine Arts,37,4,1,4,navy
