@@ -1,39 +1,39 @@
-From,Area,To,N,Quartile,Rank,Number of i-cords,Color
-Pharmacology,Medicine,Brown University,1,1,4,1,green tea heather
-General Care,Medicine,Brown University,3,1,2,1,grass
-Specialty Care,Medicine,Brown University,3,1,2,1,grass
-Medicine and Public Health,Medicine,Brown University,6,1,1,1,aurora heather
-Specialty Care,Medicine,Columbia University Libraries,3,1,3,1,edamame
-Medicine and Public Health,Medicine,Columbia University Libraries,10,2,2,2,grass
-General Care,Medicine,Columbia University Libraries,14,2,1,2,aurora heather
-General Care,Medicine,Cornell University,9,2,2,2,grass
-Medicine and Public Health,Medicine,Cornell University,10,2,1,2,aurora heather
-Medicine and Public Health,Medicine,Duke University,1,1,2,1,grass
-General Care,Medicine,Duke University,3,1,1,1,aurora heather
-Specialty Care,Medicine,Harvard University,7,1,3,1,edamame
-Medicine and Public Health,Medicine,Harvard University,18,2,2,2,grass
-General Care,Medicine,Harvard University,21,3,1,3,aurora heather
-Pharmacology,Medicine,Johns Hopkins University,2,1,4,1,green tea heather
-General Care,Medicine,Johns Hopkins University,13,2,2,2,grass
-Specialty Care,Medicine,Johns Hopkins University,13,2,2,2,grass
-Medicine and Public Health,Medicine,Johns Hopkins University,14,2,1,2,aurora heather
-Specialty Care,Medicine,Massachusetts Institute of Technology,1,1,3,1,edamame
-General Care,Medicine,Massachusetts Institute of Technology,2,1,2,1,grass
-Medicine and Public Health,Medicine,Massachusetts Institute of Technology,3,1,1,1,aurora heather
-Pharmacology,Medicine,Princeton University,1,1,4,1,green tea heather
-Specialty Care,Medicine,Princeton University,3,1,3,1,edamame
-Medicine and Public Health,Medicine,Princeton University,4,1,2,1,grass
-General Care,Medicine,Princeton University,9,2,1,2,aurora heather
-General Care,Medicine,Stanford University,3,1,1,1,aurora heather
-Medicine and Public Health,Medicine,Stanford University,3,1,1,1,aurora heather
-Medicine and Public Health,Medicine,University of Chicago,1,1,3,1,edamame
-Specialty Care,Medicine,University of Chicago,3,1,2,1,grass
-General Care,Medicine,University of Chicago,7,1,1,1,aurora heather
-Specialty Care,Medicine,University of Pennsylvania,1,1,4,1,green tea heather
-Pharmacology,Medicine,University of Pennsylvania,3,1,3,1,edamame
-General Care,Medicine,University of Pennsylvania,9,2,2,2,grass
-Medicine and Public Health,Medicine,University of Pennsylvania,16,2,1,2,aurora heather
-Pharmacology,Medicine,Yale University,2,1,4,1,green tea heather
-Specialty Care,Medicine,Yale University,5,1,3,1,edamame
-Medicine and Public Health,Medicine,Yale University,12,2,2,2,grass
-General Care,Medicine,Yale University,16,2,1,2,aurora heather
+From,Area,To,N,Quartile,Rank,Number of i-cords,Generic category,Color
+Pharmacology,Medicine,Brown University,1,1,4,1,Cat3,celadon heather
+General Care,Medicine,Brown University,3,1,2,1,Cat1,clover
+Specialty Care,Medicine,Brown University,3,1,2,1,Cat4,caper
+Medicine and Public Health,Medicine,Brown University,6,1,1,1,Cat2,aurora heather
+Specialty Care,Medicine,Columbia University Libraries,3,1,3,1,Cat4,lichen
+Medicine and Public Health,Medicine,Columbia University Libraries,10,2,2,2,Cat2,grass
+General Care,Medicine,Columbia University Libraries,14,2,1,2,Cat1,ivy
+General Care,Medicine,Cornell University,9,2,2,2,Cat1,clover
+Medicine and Public Health,Medicine,Cornell University,10,2,1,2,Cat2,aurora heather
+Medicine and Public Health,Medicine,Duke University,1,1,2,1,Cat2,grass
+General Care,Medicine,Duke University,3,1,1,1,Cat1,ivy
+Specialty Care,Medicine,Harvard University,7,1,3,1,Cat4,lichen
+Medicine and Public Health,Medicine,Harvard University,18,2,2,2,Cat2,grass
+General Care,Medicine,Harvard University,21,3,1,3,Cat1,ivy
+Pharmacology,Medicine,Johns Hopkins University,2,1,4,1,Cat3,celadon heather
+General Care,Medicine,Johns Hopkins University,13,2,2,2,Cat1,clover
+Specialty Care,Medicine,Johns Hopkins University,13,2,2,2,Cat4,caper
+Medicine and Public Health,Medicine,Johns Hopkins University,14,2,1,2,Cat2,aurora heather
+Specialty Care,Medicine,Massachusetts Institute of Technology,1,1,3,1,Cat4,lichen
+General Care,Medicine,Massachusetts Institute of Technology,2,1,2,1,Cat1,clover
+Medicine and Public Health,Medicine,Massachusetts Institute of Technology,3,1,1,1,Cat2,aurora heather
+Pharmacology,Medicine,Princeton University,1,1,4,1,Cat3,celadon heather
+Specialty Care,Medicine,Princeton University,3,1,3,1,Cat4,lichen
+Medicine and Public Health,Medicine,Princeton University,4,1,2,1,Cat2,grass
+General Care,Medicine,Princeton University,9,2,1,2,Cat1,ivy
+General Care,Medicine,Stanford University,3,1,1,1,Cat1,ivy
+Medicine and Public Health,Medicine,Stanford University,3,1,1,1,Cat2,aurora heather
+Medicine and Public Health,Medicine,University of Chicago,1,1,3,1,Cat2,edamame
+Specialty Care,Medicine,University of Chicago,3,1,2,1,Cat4,caper
+General Care,Medicine,University of Chicago,7,1,1,1,Cat1,ivy
+Specialty Care,Medicine,University of Pennsylvania,1,1,4,1,Cat4,safflower
+Pharmacology,Medicine,University of Pennsylvania,3,1,3,1,Cat3,spearmint
+General Care,Medicine,University of Pennsylvania,9,2,2,2,Cat1,clover
+Medicine and Public Health,Medicine,University of Pennsylvania,16,2,1,2,Cat2,aurora heather
+Pharmacology,Medicine,Yale University,2,1,4,1,Cat3,celadon heather
+Specialty Care,Medicine,Yale University,5,1,3,1,Cat4,lichen
+Medicine and Public Health,Medicine,Yale University,12,2,2,2,Cat2,grass
+General Care,Medicine,Yale University,16,2,1,2,Cat1,ivy

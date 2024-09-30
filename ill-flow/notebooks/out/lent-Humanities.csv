@@ -1,49 +1,49 @@
-From,Area,To,N,Quartile,Rank,Number of i-cords,Color
-"Archaeology, Genealogy, and Biography",Humanities,Brown University,5,1,4,1,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Brown University,54,4,3,4,tarragon
-World History,Humanities,Brown University,69,4,2,4,clover
-Language and Literature,Humanities,Brown University,142,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Columbia University Libraries,9,2,4,2,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Columbia University Libraries,144,4,3,4,tarragon
-World History,Humanities,Columbia University Libraries,194,4,2,4,clover
-Language and Literature,Humanities,Columbia University Libraries,326,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Cornell University,9,2,4,2,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Cornell University,99,4,3,4,tarragon
-World History,Humanities,Cornell University,145,4,2,4,clover
-Language and Literature,Humanities,Cornell University,283,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Duke University,3,1,4,1,limeade heather
-World History,Humanities,Duke University,34,3,3,3,tarragon
-"Philosophy, Psychology, Religion",Humanities,Duke University,54,4,2,4,clover
-Language and Literature,Humanities,Duke University,74,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Harvard University,25,3,4,3,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Harvard University,229,4,2,4,clover
-World History,Humanities,Harvard University,229,4,2,4,clover
-Language and Literature,Humanities,Harvard University,337,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Johns Hopkins University,5,1,4,1,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Johns Hopkins University,118,4,3,4,tarragon
-World History,Humanities,Johns Hopkins University,177,4,2,4,clover
-Language and Literature,Humanities,Johns Hopkins University,311,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Massachusetts Institute of Technology,1,1,4,1,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Massachusetts Institute of Technology,12,2,3,2,tarragon
-World History,Humanities,Massachusetts Institute of Technology,36,3,2,3,clover
-Language and Literature,Humanities,Massachusetts Institute of Technology,66,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Princeton University,9,2,4,2,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Princeton University,134,4,3,4,tarragon
-World History,Humanities,Princeton University,177,4,2,4,clover
-Language and Literature,Humanities,Princeton University,251,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Stanford University,5,1,4,1,limeade heather
-World History,Humanities,Stanford University,38,3,3,3,tarragon
-"Philosophy, Psychology, Religion",Humanities,Stanford University,40,3,2,3,clover
-Language and Literature,Humanities,Stanford University,112,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,University of Chicago,3,1,4,1,limeade heather
-World History,Humanities,University of Chicago,78,4,3,4,tarragon
-"Philosophy, Psychology, Religion",Humanities,University of Chicago,91,4,2,4,clover
-Language and Literature,Humanities,University of Chicago,114,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,University of Pennsylvania,8,1,4,1,limeade heather
-"Philosophy, Psychology, Religion",Humanities,University of Pennsylvania,56,4,3,4,tarragon
-World History,Humanities,University of Pennsylvania,88,4,2,4,clover
-Language and Literature,Humanities,University of Pennsylvania,168,4,1,4,ivy
-"Archaeology, Genealogy, and Biography",Humanities,Yale University,11,2,4,2,limeade heather
-"Philosophy, Psychology, Religion",Humanities,Yale University,183,4,3,4,tarragon
-World History,Humanities,Yale University,250,4,2,4,clover
-Language and Literature,Humanities,Yale University,375,4,1,4,ivy
+From,Area,To,N,Quartile,Rank,Number of i-cords,Generic category,Color
+"Archaeology, Genealogy, and Biography",Humanities,Brown University,5,1,4,1,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Brown University,54,4,3,4,Cat3,spearmint
+World History,Humanities,Brown University,69,4,2,4,Cat4,caper
+Language and Literature,Humanities,Brown University,142,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Columbia University Libraries,9,2,4,2,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Columbia University Libraries,144,4,3,4,Cat3,spearmint
+World History,Humanities,Columbia University Libraries,194,4,2,4,Cat4,caper
+Language and Literature,Humanities,Columbia University Libraries,326,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Cornell University,9,2,4,2,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Cornell University,99,4,3,4,Cat3,spearmint
+World History,Humanities,Cornell University,145,4,2,4,Cat4,caper
+Language and Literature,Humanities,Cornell University,283,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Duke University,3,1,4,1,Cat1,limeade heather
+World History,Humanities,Duke University,34,3,3,3,Cat4,lichen
+"Philosophy, Psychology, Religion",Humanities,Duke University,54,4,2,4,Cat3,verdant heather
+Language and Literature,Humanities,Duke University,74,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Harvard University,25,3,4,3,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Harvard University,229,4,2,4,Cat3,verdant heather
+World History,Humanities,Harvard University,229,4,2,4,Cat4,caper
+Language and Literature,Humanities,Harvard University,337,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Johns Hopkins University,5,1,4,1,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Johns Hopkins University,118,4,3,4,Cat3,spearmint
+World History,Humanities,Johns Hopkins University,177,4,2,4,Cat4,caper
+Language and Literature,Humanities,Johns Hopkins University,311,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Massachusetts Institute of Technology,1,1,4,1,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Massachusetts Institute of Technology,12,2,3,2,Cat3,spearmint
+World History,Humanities,Massachusetts Institute of Technology,36,3,2,3,Cat4,caper
+Language and Literature,Humanities,Massachusetts Institute of Technology,66,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Princeton University,9,2,4,2,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Princeton University,134,4,3,4,Cat3,spearmint
+World History,Humanities,Princeton University,177,4,2,4,Cat4,caper
+Language and Literature,Humanities,Princeton University,251,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Stanford University,5,1,4,1,Cat1,limeade heather
+World History,Humanities,Stanford University,38,3,3,3,Cat4,lichen
+"Philosophy, Psychology, Religion",Humanities,Stanford University,40,3,2,3,Cat3,verdant heather
+Language and Literature,Humanities,Stanford University,112,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,University of Chicago,3,1,4,1,Cat1,limeade heather
+World History,Humanities,University of Chicago,78,4,3,4,Cat4,lichen
+"Philosophy, Psychology, Religion",Humanities,University of Chicago,91,4,2,4,Cat3,verdant heather
+Language and Literature,Humanities,University of Chicago,114,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,University of Pennsylvania,8,1,4,1,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,University of Pennsylvania,56,4,3,4,Cat3,spearmint
+World History,Humanities,University of Pennsylvania,88,4,2,4,Cat4,caper
+Language and Literature,Humanities,University of Pennsylvania,168,4,1,4,Cat2,aurora heather
+"Archaeology, Genealogy, and Biography",Humanities,Yale University,11,2,4,2,Cat1,limeade heather
+"Philosophy, Psychology, Religion",Humanities,Yale University,183,4,3,4,Cat3,spearmint
+World History,Humanities,Yale University,250,4,2,4,Cat4,caper
+Language and Literature,Humanities,Yale University,375,4,1,4,Cat2,aurora heather
